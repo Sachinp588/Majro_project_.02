@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baby Welcome</title>
+    <link rel="stylesheet" href="header-data/header.css">
+    <link rel="stylesheet" href="footer/footer.css">
+    <link rel="stylesheet" href="circle_images(innerside).css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<!--Header-->
+
+<div id = "header-placeholder">  </div>
+<script>
+    fetch('header-data/header.html')
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById('header-placeholder').innerHTML = html;
+
+        const script = document.createElement('script');
+        script.src = 'header-data/header.js';
+        document.body.appendChild(script);
+      })
+      .catch(err => console.error('Failed to load header:', err));
+  </script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <!--Middle section-->
+    <hr>
+    <p class="heading">BABY WELCOME</p>
+    <div class="section-con">
+       
+            <div class="section" id="Twins">
+            <div class="circle">
+              <a href="circle2/Welcome_twins.html" class="anchor"><img src="major_project_images/Twins_baby_shower.webp" alt="TWins"></a>
+            </div>
+            <p>oh!It's Twins</p>
+        </div>
+
+        <div class="section" id="Girl">
+            <div class="circle">
+              <a href="circle2/Welcome_Girl.html" class="anchor"><img src="major_project_images/its_girl.webp" alt="girl_image"></a>
+            </div>
+            <p>It's Girl</p>
+        </div>
+
+        <div class="section" id="Boy">
+            <div class="circle">
+              <a href="circle2/Welcome_Boy.html" class="anchor"><img src="major_project_images/its_boy.webp" alt="Boy_image"></a>
+            </div>
+            <p>It's Boy</p>
+        </div>
+        </div>
+
+<!--Footer-->
+<hr>
+<div id="footer-placeholder"></div>
+
+<script>
+    fetch('footer/footer.html')
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById('footer-placeholder').innerHTML = html;
+      })
+      .catch(err => console.error('Failed to load footer:', err));
+  </script>
+
+</body>
+</html>

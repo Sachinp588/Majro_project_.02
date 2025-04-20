@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>header</title>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg bgred">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+      <button class="btn btn-light d-lg-none m-2" id="menu-toggle" >
+        <i class="fas fa-bars"></i>
+      </button>
+  
+      <div class="mx-auto">
+        <img src="/header-data/logo_thememyparty.avif" alt="Logo" class="logo">
+      </div>
+  
+      <div class="icon-bar d-flex align-items-center gap-3">
+        <i class="fas fa-user" title="Login"></i>
+        <i class="fas fa-shopping-cart" title="Cart"></i>
+        <i class="fas fa-search" id="search-icon" title="Search"></i>
+      </div>
+    </div>
+  
+    <div class="search-bar-container" id="search-bar-container">
+      <input type="text" id="site-search" placeholder="Search..." class="form-control" />
+      <i class="fas fa-times" id="close-search" title="Close"></i>
+    </div>
+  </nav>
+  
+  <div class="section-container d-none d-lg-flex">
+    <div class="dropdown">
+      <div class="section-item dropdown-toggle" data-bs-toggle="dropdown">Birthday</div>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="kids_birthday.html">Girls</a></li>
+        <li><a class="dropdown-item" href="kids_birthday.html">Boys</a></li>
+        
+      </ul>
+    </div>
+    <div class="dropdown">
+      <div class="section-item dropdown-toggle" data-bs-toggle="dropdown">Baby First Ceremony</div>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="baby_first_ceremony.html">Annaprashan</a></li>
+        <li><a class="dropdown-item" href="baby_first_ceremony.html">Namakaran</a></li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <div class="section-item dropdown-toggle" data-bs-toggle="dropdown">Occasion/Festivals</div>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="festival.html">Diwali</a></li>
+        <li><a class="dropdown-item" href="festival.html">Christmas</a></li>
+        
+      </ul>
+    </div>
+    <div class="dropdown">
+      <div class="section-item dropdown-toggle" data-bs-toggle="dropdown">Wedding Function</div>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#">Engagement</a></li>
+        <li><a class="dropdown-item" href="#">Reception</a></li>
+        <li><a class="dropdown-item" href="#">Mehendi</a></li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <div class="section-item dropdown-toggle" data-bs-toggle="dropdown">Party Decoration</div>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="party_decoration.html">Latern</a></li>
+        <li><a class="dropdown-item" href="party_decoration.html">Party Essentials</a></li>
+        
+      </ul>
+    </div>
+  </div>
+  <!--sidebar Menu(for extra small screen)-->
+  
+  <div class="sidebar" id="sidebar" style="z-index: 1100;">
+    <button class="close-btn">&times;</button>
+    <ul class="list-unstyled">
+      <li class="sidebar-item">Birthday
+        <ul class="submenu">
+          <li><a href="#">Cakes</a></li>
+          <li><a href="#">Balloons</a></li>
+          <li><a href="#">Gifts</a></li>
+        </ul>
+      </li>
+      <li class="sidebar-item">Baby First Ceremony
+        <ul class="submenu">
+          <li><a href="#">Annaprashan</a></li>
+          <li><a href="#">Namakaran</a></li>
+        </ul>
+      </li>
+      <li class="sidebar-item">Occasion/Festivals
+        <ul class="submenu">
+          <li><a href="#">Diwali</a></li>
+          <li><a href="#">Christmas</a></li>
+          <li><a href="#">Eid</a></li>
+        </ul>
+      </li>
+      <li class="sidebar-item">Wedding Function
+        <ul class="submenu">
+          <li><a href="#">Engagement</a></li>
+          <li><a href="#">Reception</a></li>
+          <li><a href="#">Mehendi</a></li>
+        </ul>
+      </li>
+      <li class="sidebar-item">Party Decoration
+        <ul class="submenu">
+          <li><a href="#">Theme Decor</a></li>
+          <li><a href="#">DJ Party</a></li>
+          <li><a href="#">Catering</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</body>
+</html>

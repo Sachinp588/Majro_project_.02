@@ -1,0 +1,114 @@
+/*MIDDLE SECTION*/
+.heading{
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+    margin-top: 50px;
+}
+.section-con {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center; 
+    align-items: center;
+    flex-wrap: wrap; /* Responsive: keeps them in the same row on small screens */
+    margin-top:100px;
+    margin-bottom:100px;
+    gap: 20px;
+    
+    }
+    /* Section Styling */
+    .section {
+        
+    width: calc(20% - 20px);
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+    text-align: center;
+    }
+    
+    .circle {
+        width:200px;
+        height:200px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    }
+    
+    .circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    }
+    .anchor{
+        width: 220px;  /*Set width */
+        height: 220px;  /*Set height */
+                }
+    
+    .section p {
+    margin-top: 10px;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    }
+    
+    /* Hover Effect: Zoom In */
+    .section:hover .circle {
+    transform: scale(1.0); /* Zoom effect */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); /* Larger shadow */
+    }
+    
+    .section:hover .circle img {
+    transform: scale(1.1); /* Zoom effect on the image */
+    }
+    
+    @media (max-width:567px) {
+        .section {
+        width: calc(50% - 10px); /* 2 sections per row on smaller screens */
+        
+        }
+        }
+        
+        @media (max-width:567px) {
+        .circle {
+            width: 143px;
+            height: 143px;
+        
+    }}
+    @media(max-width:768px) and (min-width:567px){
+        .section {
+        width: calc(50% - 10px); /* 2 sections per row on smaller screens */
+        
+        }
+        }
+        
+        @media (max-width:567px) {
+        .circle {
+            width: 155px;
+            height: 155px;
+        
+    }}
+        
+    
+    @media (max-width: 992px) and (min-width: 768px) {
+        .section{
+            width: calc(20% - 20px);
+    
+        }
+        
+    }
+    @media (max-width: 992px) and (min-width: 768px)  {
+        .circle {
+            width: 143px;
+            height: 143px;
+        
+    }}
