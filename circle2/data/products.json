@@ -1,0 +1,1441 @@
+ [  
+    { 
+      "id": 0,
+      "title": "Happy Birthday Balloon Setup",
+      "description": "Simple and elegant birthday decoration with colorful balloons and 'Happy Birthday' foil letters. Perfect for home surprise celebrations.",
+      "price": 1200,
+      "images": [
+        "data/Products_photos/happy-birthday-1.webp",
+        "data/Products_photos/happy-birthday-2.webp",
+        "data/Products_photos/happy-birthday-3.webp",
+        "data/Products_photos/happy-birthday-4.webp"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Balloon Arch Entry Setup",
+      "description": "A beautiful balloon arch for main entrance. Includes pastel and metallic balloons in mixed colors. Ideal for welcoming guests.",
+      "price": 1500,
+      "images": [
+        "data/Products_photos/balloon-arch-1.webp",
+        "data/Products_photos/balloon-arch-2.webp",
+        "data/Products_photos/balloon-arch-3.webp",
+        "data/Products_photos/balloon-arch-4.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pink Theme Birthday Decor",
+      "description": "Soft pink and white balloon decoration for girls' birthday party. Includes happy birthday banner and fairy lights.",
+      "price": 1800,
+      "images": [
+        "data/Products_photos/pink-theme-1.webp",
+        "data/Products_photos/pink-theme-2.webp",
+        "data/Products_photos/pink-theme-3.webp",
+        "data/Products_photos/pink-theme-4.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Blue Theme Balloon Setup",
+      "description": "Cool blue and white balloon decoration for boys' birthday celebration. Includes star foil balloons and age number foil.",
+      "price": 1700,
+      "images": [
+        "data/Products_photos/blue-theme-1.webp",
+        "data/Products_photos/blue-theme-2.webp",
+        "data/Products_photos/blue-theme-3.webp",
+        "data/Products_photos/blue-theme-4.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Golden & Black Decoration",
+      "description": "Stylish black and gold balloons setup with golden 'Happy Birthday' foil and metallic balloons. Best for evening parties.",
+      "price": 2000,
+      "images": [
+        "data/Products_photos/golden-black-1.webp",
+        "data/Products_photos/golden-black-2.webp",
+        "data/Products_photos/golden-black-3.webp",
+        "data/Products_photos/golden-black-4.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Balloon Wall Backdrop",
+      "description": "Colorful balloon wall setup for photos and cake-cutting area. Includes pastel balloons and decorative props.",
+      "price": 2200,
+      "images": [
+        "data/Products_photos/balloon-wall-1.webp",
+        "data/Products_photos//balloon-wall-2.webp",
+        "data/Products_photos//balloon-wall-3.webp",
+        "data/Products_photos//balloon-wall-4.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Minimal Birthday Corner",
+      "description": "Simple decoration with limited balloons and one 'Happy Birthday' banner. Suitable for low budget surprise setup.",
+      "price": 800,
+      "images": [
+        "data/Products_photos/minimal-corner-1.webp",
+        "data/Products_photos/minimal-corner-2.webp",
+        "data/Products_photos/minimal-corner-3.webp",
+        "data/Products_photos/minimal-corner-4.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Room Surprise Setup",
+      "description": "Room decoration with hanging balloons from ceiling, bed decoration and happy birthday cutout. Ideal for late night surprise.",
+      "price": 1600,
+      "images": [
+        "data/Products_photos/room-surprise-1.webp",
+        "data/Products_photos/room-surprise-2.webp",
+        "data/Products_photos/room-surprise-3.webp",
+        "data/Products_photos/room-surprise-4.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Customized Name Setup",
+      "description": "Includes name foil balloons with matching decoration theme. Best for personal touch in home party celebration.",
+      "price": 1900,
+      "images": [
+        "data/Products_photos/custom-name-1.webp",
+        "data/Products_photos/custom-name-2.webp",
+        "data/Products_photos/custom-name-3.webp",
+        "data/Products_photos/custom-name-4.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Kids Cartoon Theme Decor",
+      "description": "Balloon decoration with cartoon foil balloons like Chhota Bheem, Doraemon, or Mickey Mouse. Fun setup for kids party.",
+      "price": 2000,
+      "images": [
+        "data/Products_photos/kids-theme-1.webp",
+        "data/Products_photos/kids-theme-2.webp",
+        "data/Products_photos/kids-theme-3.webp",
+        "data/Products_photos/kids-theme-4.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Pink Balloon Birthday Setup",
+      "description": "Our Pink Balloon Birthday Setup is perfect for a sweet and joyful birthday celebration. This simple yet beautiful decoration includes a bunch of pink and white balloons, a Happy Birthday banner, and a few cute hanging decorations. It’s ideal for small home parties or apartment gatherings. The setup takes less than an hour and gives a charming look without being too fancy. We also add a few confetti balloons to give a fun sparkle to the space. It’s best for girls aged 1-10 and can be customized with the child’s name if requested. This setup is easy on the budget and big on happiness. The color palette includes soft pink, white, and touches of gold. We use high-quality latex balloons and reusable décor items. It’s perfect if you want something sweet, simple, and beautiful for your daughter’s big day.",
+      "price": 1005.00,
+      "images": [
+        "data/Products_photos/pink-birthday1.webp",
+        "data/Products_photos/pink-birthday2.webp",
+        "data/Products_photos/pink-birthday3.webp",
+        "data/Products_photos/pink-birthday4.webp"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Rainbow Theme Simple Decor",
+      "description": "This Rainbow Theme Simple Decor is bright, colorful, and full of joy—perfect for any girl who loves a splash of color. We use rainbow-colored balloons arranged in a semi-arch, a multicolor ‘Happy Birthday’ banner, and matching table cloth and small props. This setup is great for both indoor and outdoor parties and works especially well in small spaces. No complicated structures—just happy colors and fun vibes! The decoration creates a cheerful background for photos and cake cutting. It’s perfect for toddlers and younger kids who love colors and happy themes. Setup is quick, usually done within 45 minutes, and you don’t need any special area—just a wall or corner. We use soft pastel shades of red, yellow, green, blue, and pink to keep the look cute and playful.",
+      "price": 1000.00,
+      "images": [
+        "data/Products_photos/rainbow-decor1.webp",
+        "data/Products_photos/rainbow-decor2.webp",
+        "data/Products_photos/rainbow-decor3.webp",
+        "data/Products_photos/rainbow-decor4.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Butterfly Garden Birthday Decor",
+      "description": "Our Butterfly Garden Birthday Decor brings a soft, magical vibe to your girl's birthday. It includes purple and white balloons, hanging butterflies, paper flowers, and a cute butterfly-themed banner. This setup is super easy and doesn’t require any heavy structures or backdrops. We arrange the décor around a small table or wall, making it a beautiful yet simple decoration option for small homes or apartments. It’s especially loved by girls who adore nature, flowers, and butterflies. We also add some grass mat or floral table pieces to complete the garden feel. It’s calming, sweet, and very photo-friendly. The entire setup is done in less than an hour and can be adjusted to your space. Custom name tag available on request.",
+      "price": 2000.00,
+      "images": [
+        "data/Products_photos/butterfly-decor1.webp",
+        "data/Products_photos/butterfly-decor2.webp",
+        "data/Products_photos/butterfly-decor3.webp",
+        "data/Products_photos/butterfly-decor4.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Pastel Balloon Wall Decoration",
+      "description": "The Pastel Balloon Wall Decoration is a calm, dreamy design perfect for a girl’s birthday. We use pastel pink, lavender, mint, and white balloons to create a simple balloon wall or arch. A soft Happy Birthday banner is placed in the center, and we add a few lightweight decorations like stars or hearts to match. This setup is ideal for a cozy home birthday where you want it to look elegant but not too loud. The colors are soft, and the look is clean and photo-ready. Great for small living rooms, bedrooms, or balconies. Everything is easy to remove after the party, and the entire setup is done in 45–60 minutes. Perfect for ages 5–12.",
+      "price": 1000.00,
+      "images": [
+        "data/Products_photos/pastel-balloons1.webp",
+        "data/Products_photos/pastel-balloons2.webp",
+        "data/Products_photos/pastel-balloons3.webp",
+        "data/Products_photos/pastel-balloons4.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Princess Crown Birthday Decor",
+      "description": "Make your little girl feel like royalty with our Princess Crown Birthday Decor. This simple setup includes pink and gold balloons, a princess crown banner, and a few star-shaped foil balloons. We place a large cut-out crown above the birthday table and surround it with pastel balloons. This decoration gives a royal but budget-friendly look for your daughter's birthday party. It's best for girls aged 3 to 10 and adds a magical princess feel without going over the top. The colors are soft pink, gold, and white. We keep it easy and quick, and it fits in a small room or even a single wall. Setup time is 30–45 minutes. A perfect choice for parents looking for a sweet and dreamy touch.",
+      "price": 2100.00,
+      "images": [
+        "data/Products_photos/princess-crown1.webp",
+        "data/Products_photos/princess-crown2.webp",
+        "data/Products_photos/princess-crown3.webp",
+        "data/Products_photos/princess-crown4.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Floral & Balloon Mix Decoration",
+      "description": "This Floral & Balloon Mix Decoration is a perfect choice if you want something soft, simple, and fresh. It combines pink, peach, and white balloons with a few artificial flowers and leafy vines for a fresh garden feel. It’s ideal for indoor birthday parties, especially for girls aged 5–12. We keep the design simple—a small arch or wall corner decorated tastefully without needing too much space or effort. The setup includes a 'Happy Birthday' banner and soft lighting (optional fairy lights) for evening parties. It’s quick to install and looks absolutely lovely in photos. The vibe is fresh, floral, and festive. All items are easy to pack away and can be reused if needed. Perfect for a mom who wants a sweet and peaceful party setup at home.",
+      "price": 1800.00,
+      "images": [
+        "data/Products_photos/floral-balloons1.webp",
+        "data/Products_photos/floral-balloons2.webp",
+        "data/Products_photos/floral-balloons3.webp",
+        "data/Products_photos/floral-balloons4.webp"
+      ]
+    },
+     {
+      "id": 16,
+      "title": "Simple Balloon Birthday Setup",
+      "description": "Celebrate your 18th birthday with a charming and minimalistic balloon decoration setup that brings joy and warmth to any space. This service includes pastel and metallic balloons in a stylish arrangement, a 'Happy 18th Birthday' banner, and a few additional accents to give a complete birthday look without overdoing it. It's perfect for small home gatherings or cozy celebrations with close friends and family. We focus on using light and vibrant colors that suit all genders and can easily blend into any room’s decor. The setup is quick, hassle-free, and requires no special equipment. Whether you’re celebrating in your living room, garden, or a rented space, our decoration team will ensure a smooth and simple setup. The overall theme is elegant and joyful, yet very affordable and light on the eyes. This package is great for those who want to mark the 18th milestone in a stylish but fuss-free way. No loud themes, no over-the-top props – just pure, simple celebration vibes.",
+      "price": 49.99,
+      "images": [
+        "data/Products_photos/image1.webp",
+        "data/Products_photos/image2.webp",
+        "data/Products_photos/image3.webp",
+        "data/Products_photos/image4.webp"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Elegant 18th Balloon Corner",
+      "description": "Make your 18th birthday picture-perfect with our Elegant Balloon Corner setup. This service is perfect for anyone who wants a soft, stylish backdrop for their special day. It features a beautiful arrangement of pastel balloons in a corner or wall space, with a golden '18' number balloon and small decorative items like paper fans or mini bunting flags. The design is clean and easy, ideal for at-home birthday photos or small cake-cutting ceremonies. We avoid anything too fancy or crowded, focusing instead on neatness and warmth. It’s also very customizable in terms of color selection. The decoration is handled entirely by our team, making the process easy and stress-free for you. Within an hour, your birthday spot will be ready and Instagram-worthy. This setup works for both day and night events and fits beautifully in compact indoor spaces. It’s perfect for low-key celebrations that still need a nice visual touch.",
+      "price": 59.99,
+      "images": [
+        "data/Products_photos/image5.webp",
+        "data/Products_photos/image6.webp",
+        "data/Products_photos/image7.webp",
+        "data/Products_photos/image8.webp"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Happy 18th Wall Decoration",
+      "description": "This Happy 18th Wall Decoration package is ideal for creating a birthday vibe with minimum effort. It includes a large 'Happy 18th Birthday' foil balloon banner, a small bunch of helium or air-filled balloons in matching colors, and easy-to-hang streamers to dress up a wall or backdrop. Great for DIY lovers or those hosting in limited space. You won’t need extra tables or accessories – this wall setup speaks for itself. We use lightweight materials and stick-on hooks so there's no damage to your walls. Our team handles all installation and cleanup. It's simple but effective for photos and Zoom parties. Whether it’s your home, hostel, or rented apartment, this setup turns any wall into a birthday backdrop. We recommend this for anyone wanting a pretty and quick decoration with no complicated pieces or long setup times. It's cute, clean, and makes your 18th birthday feel extra special.",
+      "price": 39.99,
+      "images": [
+        "data/Products_photos/image9.webp",
+        "data/Products_photos/image10.webp",
+        "data/Products_photos/image11.webp",
+        "data/Products_photos/image12.webp"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Simple Arch for 18th Celebration",
+      "description": "Our Simple Arch decoration for an 18th birthday brings a classic party element into a modern, minimal setup. This package includes a balloon arch made of soft shades like nude, blush pink, gold, or silver (based on your preference), along with an '18' foil number balloon placed stylishly at the base. This arch can be set up at an entrance, behind a cake table, or near a window for great natural light pictures. It’s not overloaded with flowers or props – just pure balloon beauty. This package is great for clients who want one main feature piece without too many scattered elements. It’s perfect for a small room celebration, balcony party, or garden moment. The decoration takes about 1.5 hours and is fully handled by our team, including setup and post-event cleanup. The style is simple, tasteful, and suitable for any kind of celebration – from formal to casual. It’s the easiest way to make your 18th birthday feel thoughtful without overdoing it.",
+      "price": 69.99,
+      "images": [
+        "data/Products_photos/image13.webp",
+        "data/Products_photos/image14.webp",
+        "data/Products_photos/image15.webp",
+        "data/Products_photos/image16.webp"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Classic 50th Birthday Balloons",
+      "description": "Celebrate turning 50 with our Classic Birthday Balloons decoration package. This setup is designed for simplicity and elegance, using golden and white balloons arranged in bunches around your space. The focal point is a 'Happy 50th Birthday' banner paired with a large '50' foil balloon to highlight the milestone. We keep things light and clean—no heavy props or complicated elements—making it perfect for a living room, backyard, or even a small event hall. The color palette is timeless and suitable for all guests, and the balloons are placed strategically to leave space for cake tables and photo spots. We handle all aspects of the setup, and it takes less than an hour. Whether you're hosting a quiet dinner or a relaxed evening gathering, this decoration adds a festive touch without being too loud. It’s ideal for those who want to honor the big 5-0 in a stylish yet minimal way. The whole vibe is friendly, warm, and very easy to manage. No fuss—just balloons, smiles, and good memories.",
+      "price": 59.99,
+      "images": [
+        "data/Products_photos/image50_1.webp",
+        "data/Products_photos/image50_2.webp",
+        "data/Products_photos/image50_3.webp",
+        "data/Products_photos/image50_4.webp"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Golden 50 Wall Setup",
+      "description": "Our Golden 50 Wall Setup is a great choice for anyone looking to mark their 50th birthday in a simple and classy way. This decoration service includes a golden-themed wall banner that says 'Happy 50th', along with gold, white, and silver balloons arranged along the edges of a wall or corner. The result is a cozy and Instagram-worthy background perfect for pictures, cake-cutting, or video calls. We keep it minimal on purpose—no large props or clutter—so the focus stays on the celebration and not just the décor. It’s great for smaller indoor spaces and takes up very little room. Our team will handle everything from delivery to setup, and you don’t need to worry about cleanup either. This decoration is ideal for people who want something nice but not over the top. It’s all about clean lines, soft colors, and that golden '50' that makes everything feel just right. Whether you're planning a surprise party or a simple gathering, this setup delivers elegance with ease.",
+      "price": 49.99,
+      "images": [
+        "data/Products_photos/image50_5.webp",
+        "data/Products_photos/image50_6.webp",
+        "data/Products_photos/image50_7.webp",
+        "data/Products_photos/image50_8.webp"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Simple 50th Table Backdrop",
+      "description": "Perfect for small indoor parties, our Simple 50th Table Backdrop is a soft and easy setup to dress up your celebration table. We use pastel balloons and a '50' number balloon to create a gentle frame behind your cake or snack table. The look is light and cheerful, with minimal fuss. We also include a mini birthday sign and a few hanging paper fans to tie the theme together. The setup fits most dining or center tables, making it a great choice for intimate home celebrations. It doesn’t take much time—our team can complete it in about 45 minutes. There are no heavy frames or special tools needed; everything is hung with safe adhesives or stand bases. This package works well in apartments or homes with limited space and gives your event a polished look. Whether you're celebrating with family or a few friends, this setup keeps the mood festive but comfortable. The best part? It's easy to match with your existing home decor and makes for perfect birthday photos.",
+      "price": 44.99,
+      "images": [
+        "data/Products_photos/image50_9.webp",
+        "data/Products_photos/image50_10.webp",
+        "data/Products_photos/image50_11.webp",
+        "data/Products_photos/image50_12.webp"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Balloon Arch for 50th",
+      "description": "Mark the big 50 with our simple and beautiful Balloon Arch setup. This decoration includes a semi-arch made with soft-toned balloons—white, gold, beige, and silver—that fits perfectly over a doorway, along a wall, or behind a table. A golden '50' foil balloon is included as a centerpiece accent. The entire vibe is calm and classy, not overwhelming. It’s ideal for customers who want one statement piece that ties the room together without having to decorate the whole place. Our team handles the complete setup on-site and cleans up afterward too. This arch looks amazing in photos and takes only around an hour to install. Whether you’re celebrating indoors or outside, this flexible decoration will elevate the mood while staying subtle and stylish. Great for birthdays where the focus is more on spending time with loved ones than flashy décor. It’s just enough to show that this milestone matters—but done the easy way.",
+      "price": 69.99,
+      "images": [
+        "data/Products_photos/image50_13.webp",
+        "data/Products_photos/image50_14.webp",
+        "data/Products_photos/image50_15.webp",
+        "data/Products_photos/image50_16.webp"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Simple Pink Baby Shower Setup",
+      "description": "Welcome the upcoming arrival of your baby girl with our Simple Pink Baby Shower Setup. This light decoration includes a soft pink balloon bunch, a 'Baby Girl' foil balloon, and minimal table decor like paper fans and confetti. The overall vibe is gentle and clean, ideal for home celebrations or a cozy garden setup. Our team uses pastel tones and sticks to a very easy layout that suits any space—be it a living room or small event hall. This setup is perfect for those who prefer minimal decorations that still create a warm and cheerful atmosphere. Setup and removal are fully handled by our decorators. This is great for a family gathering or even a surprise shower for the mom-to-be. It’s all about keeping it simple, pretty, and heartwarming, without overloading the space or your budget.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/pink1.webp",
+        "data/Products_photos/pink2.webp",
+        "data/Products_photos/pink3.webp",
+        "data/Products_photos/pink4.webp"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Blue Baby Shower Corner Decor",
+      "description": "Create a beautiful baby boy shower corner with this simple decoration package. We include pastel blue and white balloons arranged along a corner wall, a 'Baby Boy' foil balloon, and a small bunting or hanging sign. The design is neat and picture-ready, perfect for cake-cutting moments or casual selfies. It fits well into compact spaces and doesn’t require any large props. You can even use this setup beside a sofa, dining table, or window. Our team takes care of everything from start to finish, including quick cleanup. This setup is a great way to celebrate with close friends and family while keeping things sweet and light. The soft color scheme and modest style make it ideal for indoor spaces and small gatherings.",
+      "price": 2699,
+      "images": [
+        "data/Products_photos/blue1.webp",
+        "data/Products_photos/blue2.webp",
+        "data/Products_photos/blue3.webp",
+        "data/Products_photos/blue4.webp"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Neutral Baby Shower Balloon Wall",
+      "description": "If you're going for a surprise or keeping the gender private, this neutral balloon wall setup is perfect. It includes soft tones like beige, cream, baby pink, and baby blue. We design a small balloon wall on one side of the room, with a simple 'Welcome Baby' sign in the center. This is great for gender-neutral themes and works for any room corner. The setup is calm, elegant, and very easy on the eyes. We avoid loud colors and complicated items, focusing instead on creating a smooth, clean background that looks great in pictures. Ideal for expecting parents who like minimal décor. Our decorators handle everything efficiently, and you’ll have a ready space in under an hour.",
+      "price": 2999,
+      "images": [
+        "data/Products_photos/neutral1.webp",
+        "data/Products_photos/neutral2.webp",
+        "data/Products_photos/neutral3.webp",
+        "data/Products_photos/neutral4.webp"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Pink Table Backdrop Decor",
+      "description": "This simple pink-themed baby shower backdrop is designed to fit behind a cake or snack table. The package includes light pink and white balloons, a 'Mom to Be' sash or tag banner, and soft paper decorations to complete the look. The whole setup is perfect for small at-home celebrations or tea parties with a few guests. Our focus is on subtlety and charm, without making it feel too busy or bold. Great for moms who prefer quiet events and like their space to feel peaceful but still festive. All materials are safe, easy to install, and removable after the event. The look is soft, classy, and perfectly made for memorable pictures.",
+      "price": 2399,
+      "images": [
+        "data/Products_photos/pinkback1.webp",
+        "data/Products_photos/pinkback2.webp",
+        "data/Products_photos/pinkback3.webp",
+        "data/Products_photos/pinkback4.webp"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Blue and White Arch Setup",
+      "description": "Celebrate your baby boy’s upcoming arrival with a minimal blue and white balloon arch. This package includes a half-arch of pastel blue, white, and a touch of silver balloons, and a 'Boy' foil balloon near the center. The arch is placed around a window, entrance, or cake table—your choice. It’s a soft, elegant look without heavy props or flowers. Our decorators arrive on time, complete the setup quickly, and clean up everything afterward. The design is well-balanced, especially for those who want just one feature piece without extra decorations. Whether you’re doing a formal gathering or something casual at home, this arch adds charm while keeping things simple.",
+      "price": 3299,
+      "images": [
+        "data/Products_photos/bluearch1.webp",
+        "data/Products_photos/bluearch2.webp",
+        "data/Products_photos/bluearch3.webp",
+        "data/Products_photos/bluearch4.webp"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Pink Balloon Entry Setup",
+      "description": "Make a sweet first impression with our Pink Balloon Entry Setup. This includes two bunches of pink and white balloons placed at the entrance or hallway of your baby shower location. We also add a 'Welcome Baby' hanging sign or easel board (customizable on request). The idea is to keep the entrance festive but light. It’s perfect for apartments or indoor venues with narrow entryways. We use high-quality balloons and simple, safe adhesives or stands so your walls and floors are not harmed. This decoration suits events with 10–30 guests and doesn’t overwhelm the space. It’s a warm way to say hello to your loved ones and set the tone for a cozy, joyful gathering.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/pinkentry1.webp",
+        "data/Products_photos/pinkentry2.webp",
+        "data/Products_photos/pinkentry3.webp",
+        "data/Products_photos/pinkentry4.webp"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Twins Balloon Welcome Setup",
+      "description": "Celebrate the joy of two little bundles with our Twins Balloon Welcome Setup. This simple decoration includes a pair of balloon bunches—one for each baby! For twin boys, we use soft blue and white balloons; for twin girls, pink and white; and for boy-girl twins, a lovely mix of pink, blue, and pastel tones. A 'Welcome Twins' banner is included, along with small paper hangings to add a gentle touch to the space. This setup is perfect for apartment entrances, balconies, or small halls. It creates a warm and joyful welcome without overwhelming your guests or your home. Our decorators ensure safe and neat setup using removable adhesives. The entire decoration is photo-ready, takes less than an hour to set up, and is perfect for intimate celebrations with family and friends.",
+      "price": 2699,
+      "images": [
+        "data/Products_photos/twins1.webp",
+        "data/Products_photos/twins2.webp",
+        "data/Products_photos/twins3.webp",
+        "data/Products_photos/twins4.webp"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Pink & Blue Twins Table Backdrop",
+      "description": "This Pink & Blue Twins Table Backdrop is specially designed for a twin baby shower. It’s great for placing behind your cake or snack table, creating a soft and adorable space for photos and cake-cutting moments. The decoration includes pastel pink and blue balloons arranged in a semi-circle, a 'Double the Joy' sign, and a few paper fans in matching colors. We keep the layout simple and suitable for small rooms, home corners, or balconies. Our team sets it up quickly and leaves the area clean after the event. This setup works beautifully whether you're celebrating twin boys, twin girls, or one of each. It brings out the theme without any heavy or fancy elements—just light, cheerful, and sweet decor for your special day.",
+      "price": 2899,
+      "images": [
+        "data/Products_photos/twins5.webp",
+        "data/Products_photos/twins6.webp",
+        "data/Products_photos/twins7.webp",
+        "data/Products_photos/twins8.webp"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Double Balloon Arch for Twins",
+      "description": "Our Double Balloon Arch for Twins is a beautiful yet minimalistic decoration featuring two arches side by side—one in blue and the other in pink. It represents the twins and makes for a perfect photo background or main focal point. We include a 'Twice the Love' message banner or foil balloons in the center. It works great both indoors and outdoors. The colors can be customized based on gender (all pink, all blue, or mixed). We keep the arch compact to fit in small spaces like balconies, terraces, or room corners. The installation takes about an hour and everything is safely attached with stands or wall-safe adhesives. It’s perfect for capturing moments while keeping the decoration simple, neat, and elegant.",
+      "price": 3499,
+      "images": [
+        "data/Products_photos/twins9.webp",
+        "data/Products_photos/twins10.webp",
+        "data/Products_photos/twins11.webp",
+        "data/Products_photos/twins12.webp"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Simple Twins Cake Table Decor",
+      "description": "This package features a soft and sweet setup around the cake or gift table. We use pastel balloons in pairs (pink + blue, or customized) to form mini clusters around the table edges. A 'Hello Babies' card or banner is placed above, with optional baby face cut-outs for each twin. It's an easy and cost-effective way to decorate if you’re working with limited space. The design is minimal and great for parents who want something festive but not too showy. It fits well for home settings, cafés, or baby shower brunches. We handle everything from balloon arrangement to clearing the setup post-event. The soft balloon colors bring out the twins theme beautifully while keeping it simple and warm.",
+      "price": 2399,
+      "images": [
+        "data/Products_photos/twins13.webp",
+        "data/Products_photos/twins14.webp",
+        "data/Products_photos/twins15.webp",
+        "data/Products_photos/twins16.webp"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Twins Photo Spot Setup",
+      "description": "Create a special memory corner with our Twins Photo Spot Setup. This includes a small balloon arch, a backdrop curtain in pink and blue, and a ‘It’s Twins!’ or 'Double Blessings' banner. You can choose to add baby-themed props like rattles, bottles, or tiny footprints as cut-outs. This is perfect for quick photo sessions with guests or solo shots of the mom-to-be. The setup is light and compact—ideal for hallways, behind sofas, or even outdoors. It’s not bulky or overly styled, making it perfect for quick events or casual settings. We aim to make the decoration feel joyful yet soft, keeping the theme of two new joys in mind. Quick setup and complete cleanup included.",
+      "price": 2999,
+      "images": [
+        "data/Products_photos/twins17.webp",
+        "data/Products_photos/twins18.webp",
+        "data/Products_photos/twins19.webp",
+        "data/Products_photos/twins20.webp"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Twins Entry Balloon Pillars",
+      "description": "Add a sweet touch at the entrance with our Twins Entry Balloon Pillars. These include two simple balloon columns in soft pink and blue colors (customizable to match twin genders), topped with baby-themed foil balloons. They’re ideal for doorways, hall entries, or the start of the party area. We include a hanging welcome sign or ‘Twins Arriving Soon’ message to greet your guests. This setup is fuss-free and takes up minimal space, yet creates a cheerful first impression. It’s especially useful for homes or small party venues that don’t have space for wall decorations. Setup is quick and clean, making it a great option for easy and charming décor.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/twins21.webp",
+        "data/Products_photos/twins22.webp",
+        "data/Products_photos/twins23.webp",
+        "data/Products_photos/twins24.webp"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Twins Baby Welcome Balloon Bunch",
+      "description": "Celebrate the arrival of your twins with this simple and sweet balloon decoration. The Twins Baby Welcome Balloon Bunch includes a pastel pink and blue balloon bouquet, placed around the entry door or main area of the house. A cute ‘Welcome Twins’ card or mini banner is added for a soft personalized touch. This package is perfect for welcoming boy-girl twins, and can be customized with all pink or all blue if needed. It’s easy to set up, doesn’t need much space, and brings joy to your home with just a little pop of color and warmth. The focus is on making a beautiful moment without a lot of fuss or heavy props. We use removable adhesives and light stands to ensure your space stays clean. Ideal for home entrances, balconies, or a cozy living room corner.",
+      "price": 1899,
+      "images": [
+        "data/Products_photos/welcome1.webp",
+        "data/Products_photos/welcome2.webp",
+        "data/Products_photos/welcome3.webp",
+        "data/Products_photos/welcome4.webp"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Soft Welcome Arch for Twins",
+      "description": "This Soft Welcome Arch for Twins is a light and elegant setup made with pastel pink and blue balloons. We place a half-arch at the entrance, window, or living room backdrop with a small welcome banner saying ‘Welcome Babies’ or ‘Twice the Love’. The design is compact, budget-friendly, and gives your home a happy, festive vibe without being over-the-top. It’s perfect for families who want to create a memory without spending a lot of time or energy on complex decorations. Our team sets it up in under an hour and also handles cleanup. It fits all home types, from apartments to villas, and works well with both natural and indoor lighting for pictures. This setup creates the perfect backdrop for your baby’s first pictures at home.",
+      "price": 2999,
+      "images": [
+        "data/Products_photos/welcome5.webp",
+        "data/Products_photos/welcome6.webp",
+        "data/Products_photos/welcome7.webp",
+        "data/Products_photos/welcome8.webp"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Twins Crib Area Balloon Decor",
+      "description": "Make the twins' nursery or crib corner extra special with this soft balloon decoration. We use pink and blue balloons (or same-color pairings for twin boys or twin girls) to create two mini balloon clusters—one for each baby. We also add a ‘Welcome Home’ banner and two little name placeholders (can be customized if names are known). It’s ideal for simple room decoration to surprise the mom, dad, or even the babies! The look is cozy, minimal, and very cute. No hard items or heavy decorations—just soft balloons and pastel beauty. Safe for babies and perfect for small spaces like bedroom corners or beside the baby cots. Our team completes the decoration quickly and leaves your space neat and safe.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/welcome9.webp",
+        "data/Products_photos/welcome10.webp",
+        "data/Products_photos/welcome11.webp",
+        "data/Products_photos/welcome12.webp"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Mini Welcome Twins Wall Decor",
+      "description": "Our Mini Welcome Twins Wall Decor is designed to bring smiles in the simplest way. We create a clean, charming balloon frame on a small wall or door with pastel balloons, a ‘Hello Babies’ or ‘Double Blessings’ message banner, and matching paper decorations like fans or stars. The theme colors—pink, blue, or a mix—can be tailored based on the twins. This decoration is ideal for homes with limited space and works well for a surprise welcome or at-home celebration with close family. The materials used are light and easily removable. No clutter, no complicated setups—just a thoughtful way to say welcome home. This package is ideal for last-minute decor or a sweet gesture from friends and relatives.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/welcome13.webp",
+        "data/Products_photos/welcome14.webp",
+        "data/Products_photos/welcome15.webp",
+        "data/Products_photos/welcome16.webp"
+      ]
+    },{
+      "id": 40,
+      "title": "Baby Girl Entrance Balloon Welcome",
+      "description": "Welcome your little princess home with this sweet and simple entrance decoration. The setup includes soft pink and white balloons, arranged in a small arch or clusters around the entryway. A cute 'Welcome Baby Girl' message adds charm to the display. A few artificial flowers in matching colors are added to give a soft floral touch. This setup is ideal for small spaces like home doors, balconies, or apartment hallways. Our decorators ensure everything is neat, safe, and quick to install. No damage to walls or floors, and all materials used are lightweight and baby-friendly. The design is elegant, photo-ready, and gives a warm feeling to friends and family coming to meet the baby for the first time. It\u2019s minimal, affordable, and brings joy without any heavy work.",
+      "price": 1999,
+      "images": [
+        "data/Products_photos/girl1.webp",
+        "data/Products_photos/girl2.webp",
+        "data/Products_photos/girl3.webp",
+        "data/Products_photos/girl4.webp"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Pink Floral Welcome Wall Decor",
+      "description": "This wall decor features a lovely blend of pastel pink balloons and soft artificial flowers arranged to form a charming corner for your baby girl's welcome. The design includes a \u2018Hello Baby Girl\u2019 message banner, light balloon clusters, and hanging paper flowers. It\u2019s perfect for living rooms, nursery walls, or even above the baby\u2019s crib. The setup is gentle and elegant, with materials chosen to be safe and clean. This decoration is best for families who want to create a cute backdrop for pictures or a beautiful welcome moment when baby comes home. It doesn\u2019t take much space or time to install and instantly brightens up your room with love and warmth.",
+      "price": 2699,
+      "images": [
+        "data/Products_photos/girl5.webp",
+        "data/Products_photos/girl6.webp",
+        "data/Products_photos/girl7.webp",
+        "data/Products_photos/girl8.webp"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Mini Table Decoration for Baby Girl",
+      "description": "Make your welcome table look special with this mini decoration setup. It includes a set of soft pink and peach balloons, artificial roses, and a small centerpiece that says \u2018It\u2019s a Girl\u2019. Perfect for side tables, gift tables, or cake tables. The decoration is compact, simple, and easy to place anywhere. You can use it near the crib or in the living room as a surprise element for the baby\u2019s arrival. It\u2019s designed to be delicate and not overpowering, which is ideal for cozy homes or last-minute setups. The use of artificial flowers and air-filled balloons makes this very safe and mess-free.",
+      "price": 1599,
+      "images": [
+        "data/Products_photos/girl9.webp",
+        "data/Products_photos/girl10.webp",
+        "data/Products_photos/girl11.webp",
+        "data/Products_photos/girl12.webp"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Floral Balloon Arch for Baby Girl",
+      "description": "Celebrate the arrival of your baby girl with a stunning yet simple floral balloon arch. The arch includes pastel pink, white, and a touch of gold balloons, combined with artificial pink flowers for added elegance. This decoration is ideal for a backdrop or entrance. A sweet banner reading \u2018Welcome Baby Girl\u2019 is placed in the center. Despite its fancy look, the design is easy to set up and take down. No drilling, no mess\u2014just smiles. Great for creating a picture-perfect moment at home, especially if you're planning to click a few welcome photos with the newborn and parents. Soft colors and floral touches make it soothing and festive.",
+      "price": 2999,
+      "images": [
+        "data/Products_photos/girl13.webp",
+        "data/Products_photos/girl14.webp",
+        "data/Products_photos/girl15.webp",
+        "data/Products_photos/girl16.webp"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Baby Girl Welcome Corner Decor",
+      "description": "This corner decoration features a lovely mix of balloons and flowers to highlight a small space in your home for your baby girl's welcome. Ideal for apartment corners or next to the crib, the decor includes a balloon bouquet, a baby-themed cutout or card, and a few floral touches for extra sweetness. The colors are soft pink, white, and pastel peach. The entire decoration is easy to set up in under an hour, with no sharp edges or messy materials. A great choice for parents who want a small but special decoration to make the baby\u2019s homecoming memorable. Great for small areas and works well in natural or indoor lighting.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/girl17.webp",
+        "data/Products_photos/girl18.webp",
+        "data/Products_photos/girl19.webp",
+        "data/Products_photos/girl20.webp"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Simple Balloon Welcome for Baby Girl",
+      "description": "This basic decoration package offers a cheerful bunch of pink and white balloons with a mini 'Welcome Baby Girl' banner. It\u2019s best suited for quick surprises or small setups at home. The design is minimal but festive enough to bring in a happy vibe. Our decorators arrange the balloons in a neat bunch near a door, sofa, or any space you prefer. A few flower sticks are added for charm. No mess, no stress\u2014just a warm welcome for your baby girl. It\u2019s easy on the eyes, affordable, and works in any kind of space. This is perfect if you\u2019re looking for something cute and cozy without too much preparation.",
+      "price": 1499,
+      "images": [
+        "data/Products_photos/girl21.webp",
+        "data/Products_photos/girl22.webp",
+        "data/Products_photos/girl23.webp",
+        "data/Products_photos/girl24.webp"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Baby Boy Balloon Entry Decor",
+      "description": "Welcome your little prince with this simple and cute Baby Boy Balloon Entry Decor. This setup includes a bunch of light blue and white balloons arranged near the entrance door, along with a small 'Welcome Baby Boy' board or card. The decoration is soft, subtle, and doesn’t take up much space—perfect for home entrances, balconies, or small apartment lobbies. Our team uses removable tapes and lightweight stands to ensure a clean and damage-free setup. It’s ideal for parents who want a joyful and warm welcome without too much clutter. The entire arrangement takes less than an hour to install and gives your guests an instant smile as they walk in. Perfect for surprise homecomings or at-home celebrations with close friends and family.",
+      "price": 1799,
+      "images": [
+        "data/Products_photos/boy1.webp",
+        "data/Products_photos/boy2.webp",
+        "data/Products_photos/boy3.webp",
+        "data/Products_photos/boy4.webp"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Blue Arch Baby Welcome Decor",
+      "description": "Celebrate your baby boy’s arrival with this charming Blue Balloon Arch decoration. This setup features a half-arch made with blue, white, and pastel balloons, placed near a wall, sofa, or cake area. A 'Welcome Baby Boy' message is included, along with a few paper stars or clouds to add extra cuteness. This simple design is ideal for home corners and small living rooms. We focus on creating a calm, soft look that’s great for photos and doesn't overwhelm your space. Easy to install and quick to remove, this setup is perfect for short events or intimate family gatherings. Our team ensures everything is safe, clean, and photo-ready. It's a lovely, easy way to welcome your little boy without complicated props.",
+      "price": 2799,
+      "images": [
+        "data/Products_photos/boy5.webp",
+        "data/Products_photos/boy6.webp",
+        "data/Products_photos/boy7.webp",
+        "data/Products_photos/boy8.webp"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Welcome Wall Set for Baby Boy",
+      "description": "This Welcome Wall Set is a minimalist yet beautiful baby boy decoration. We use light blue and white balloons arranged into a neat corner on a wall, paired with a ‘Hello Baby Boy’ banner or foil letters. A few paper fans or stars in matching colors add to the charm. It’s perfect for small rooms, hallways, or even behind cribs and cots. The decoration is safe, lightweight, and super easy to manage. It provides a cozy, joyful feel without needing much space or effort. Our decorators make sure it’s set up quickly and neatly, and it’s ideal for those who want something sweet and simple for their baby’s first moments at home.",
+      "price": 2299,
+      "images": [
+        "data/Products_photos/boy9.webp",
+        "data/Products_photos/boy10.webp",
+        "data/Products_photos/boy11.webp",
+        "data/Products_photos/boy12.webp"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Crib Side Blue Balloons",
+      "description": "Add a lovely touch near your baby boy’s crib with this soft Crib Side Blue Balloon decor. The setup includes two balloon bunches—one on each side of the crib—using pastel blue and white balloons, with a 'Little Prince' cutout in the center. It brings a light decorative touch to the nursery without taking up floor space or creating clutter. The decoration is totally safe and setup is done using soft tapes or air-filled stands—no sharp items or complex setups. This is perfect for a low-key surprise or photos with your newborn. It’s especially good for bedrooms or small living areas. The overall vibe is gentle, sweet, and welcoming for your new arrival.",
+      "price": 1999,
+      "images": [
+        "data/Products_photos/boy13.webp",
+        "data/Products_photos/boy14.webp",
+        "data/Products_photos/boy15.webp",
+        "data/Products_photos/boy16.webp"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Simple Welcome Pillars for Baby Boy",
+      "description": "This decoration features two balloon pillars in blue and white placed on either side of the entrance or main room. Each pillar is topped with a baby boy-themed foil balloon like a star, pacifier, or teddy. A small hanging sign with ‘Welcome Baby Boy’ completes the look. It’s minimal, neat, and super effective to set the tone for your baby’s arrival celebration. These pillars are light, adjustable, and perfect for homes with less space. The design is quick to set up and looks great in photos. It’s also reusable for anyone who wants to keep it up for a few days. A clean and quick way to mark a beautiful milestone.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/boy17.webp",
+        "data/Products_photos/boy18.webp",
+        "data/Products_photos/boy19.webp",
+        "data/Products_photos/boy20.webp"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Balloon Table Backdrop for Baby Boy",
+      "description": "This Table Backdrop setup is designed to add a cute background for your baby boy’s cake table or welcome table. It features pastel blue and white balloon bunches arranged in a small arch or line behind the table, along with a 'It's a Boy' foil balloon or card. A few small props like baby shoes, stars, or hearts (paper cut-outs) are included for added charm. This decoration works great for small home parties, surprise visits, or casual photo shoots. It’s easy to place, doesn’t require much time, and doesn’t make a mess. Simple and adorable, this is a go-to option if you're looking for elegance with minimal effort.",
+      "price": 2699,
+      "images": [
+        "data/Products_photos/boy21.webp",
+        "data/Products_photos/boy22.webp",
+        "data/Products_photos/boy23.webp",
+        "data/Products_photos/boy24.webp"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Annaprashan Entrance Balloon Welcome",
+      "description": "Celebrate your baby's Annaprashan ceremony with a warm and joyful entrance decoration. This setup includes pastel balloons in shades of yellow, peach, and white, beautifully arranged around the main door. A small banner with 'Annaprashan Ceremony' or 'Welcome Little Foodie' is included. A few artificial marigold strings or flowers add an Indian festive touch. Ideal for apartment entries or home hallways, this decor brings instant charm with very little space usage. It's designed for easy setup, safe materials, and maximum joy with minimal effort.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/anna1.webp",
+        "data/Products_photos/anna2.webp",
+        "data/Products_photos/anna3.webp",
+        "data/Products_photos/anna4.webp"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Simple Annaprashan Wall Backdrop",
+      "description": "Create a lovely photo-friendly wall space for your baby's first food ceremony with this simple backdrop. The decoration includes soft-colored balloon clusters (yellow, peach, and white), a small 'Annaprashan' banner, and a few decorative flower accents. This setup is great for placing behind a high chair or food table. It sets the scene for photographs and adds elegance to your living room or event space. Designed to be mess-free and easy to remove, this wall decor is ideal for at-home celebrations.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/anna5.webp",
+        "data/Products_photos/anna6.webp",
+        "data/Products_photos/anna7.webp",
+        "data/Products_photos/anna8.webp"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Annaprashan Table Side Decor",
+      "description": "This decoration is specially designed for the food table at your baby's Annaprashan ceremony. It includes balloon clusters on either side of the table, with a few marigold garlands and a mini sign saying 'First Bite Celebration'. Soft, non-intrusive colors like pastel yellow, orange, and white make the setup joyful and calm. It’s a perfect way to highlight the food space without going overboard. Quick to set up and easy to remove, this setup fits well in small homes and makes the ceremony even more special.",
+      "price": 1799,
+      "images": [
+        "data/Products_photos/anna9.webp",
+        "data/Products_photos/anna10.webp",
+        "data/Products_photos/anna11.webp",
+        "data/Products_photos/anna12.webp"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Minimal Corner Decor for Annaprashan",
+      "description": "This compact corner decoration adds a touch of beauty to any empty space in your home for the Annaprashan celebration. It features a small bouquet of balloons in yellow, orange, and white shades along with a couple of flower strings and a baby-themed prop. It’s ideal for placing beside a high chair, sofa, or pooja space. Easy to install and highly photogenic, this setup is perfect for those who want a low-effort but delightful decor element. Clean, safe, and visually pleasant, this is a go-to option for simple family celebrations.",
+      "price": 1599,
+      "images": [
+        "data/Products_photos/anna13.webp",
+        "data/Products_photos/anna14.webp",
+        "data/Products_photos/anna15.webp",
+        "data/Products_photos/anna16.webp"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Balloon Arch with Floral Touch for Annaprashan",
+      "description": "Make your baby’s Annaprashan extra special with a soft balloon arch decoration. This half arch is made using pastel balloons and a few artificial flowers for a soothing Indian festive vibe. Placed as a backdrop or near the entry, it includes a board that says 'Annaprashan' or 'My First Meal'. It’s ideal for family gatherings, puja corners, or even in dining areas. Simple, elegant, and easy to manage, this decoration adds a highlight to your baby’s big day. Our team installs it with care and safety.",
+      "price": 2899,
+      "images": [
+        "data/Products_photos/anna17.webp",
+        "data/Products_photos/anna18.webp",
+        "data/Products_photos/anna19.webp",
+        "data/Products_photos/anna20.webp"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Traditional Annaprashan Welcome Setup",
+      "description": "This welcome setup combines traditional Indian decor elements with modern balloon styling. A bunch of yellow and orange balloons is arranged alongside flower garlands and a small signboard that says 'Welcome to My Annaprashan'. Ideal for door entrances or living room corners, this setup is neat and culturally warm. Perfect for those looking to keep the event minimal yet festive. The arrangement is simple, light, and safe for any home space. It's especially suited for parents wanting a clean yet colorful celebration feel.",
+      "price": 2399,
+      "images": [
+        "data/Products_photos/anna21.webp",
+        "data/Products_photos/anna22.webp",
+        "data/Products_photos/anna23.webp",
+        "data/Products_photos/anna24.webp"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Namkaran Welcome Balloon Arch",
+      "description": "Celebrate your baby's Namkaran ceremony with a beautiful and simple welcome balloon arch. This decoration includes pastel-colored balloons in soft shades of pink, blue, yellow, and white, arranged in a half-arch format. An elegant banner reading 'Welcome to My Namkaran' is placed at the center. A few flower garlands (artificial) are added to bring a traditional Indian feel. The arch can be placed at the entrance or behind the naming table. It is easy to set up and gives a festive touch without being overwhelming. Designed with safety in mind, this decor works well for apartments and home settings.",
+      "price": 2299,
+      "images": [
+        "data/Products_photos/namkaran1.webp",
+        "data/Products_photos/namkaran2.webp",
+        "data/Products_photos/namkaran3.webp", 
+        "data/Products_photos/namkaran4.webp"
+       ]
+    },
+    {
+      "id": 59,
+      "title": "Simple Wall Backdrop for Namkaran",
+      "description": "This wall backdrop is designed for beautiful photos during your baby's Namkaran ceremony. The setup features soft balloon bunches in yellow, peach, and white colors, with a floral border and a cute name banner in the middle. Ideal for placing behind the baby's seat or cradle, this decor adds charm without taking up too much space. The setup is quick and easy, suitable for both living rooms and event halls. It blends traditional charm with modern simplicity, making it perfect for Indian-style home celebrations with a light, fresh look.",
+      "price": 2599,
+      "images": [
+        "data/Products_photos/namkaran5.webp",
+        "data/Products_photos/namkaran6.webp",
+        "data/Products_photos/namkaran7.webp",
+        "data/Products_photos/namkaran8.webp"
+        ]
+    },
+    {
+      "id": 60,
+      "title": "Namkaran Table Balloon Decoration",
+      "description": "Make the name announcement table a highlight with this elegant yet simple decoration. It includes balloon bouquets on both sides of the table, artificial marigold strings, and a small 'Namkaran' sign. The color theme is soft pink, yellow, and white – suitable for any gender or neutral theme. Designed to look festive but minimal, this decor setup fits easily in home spaces and apartments. Perfect for family photos and pooja rituals, this setup is affordable, neat, and adds a celebratory feel without taking too much room.",
+      "price": 1899,
+      "images": [
+        "data/Products_photos/namkaran9.webp",
+        "data/Products_photos/namkaran10.webp",
+        "data/Products_photos/namkaran11.webp",
+        "data/Products_photos/namkaran12.webp"
+        ]
+    },
+    {
+      "id": 61,
+      "title": "Corner Balloon Decor for Namkaran",
+      "description": "Fill up an empty corner with charm using this balloon and flower corner decor for the Namkaran ceremony. The design features pastel balloons in blue, yellow, and white, accented with small flower bunches and a baby-themed prop like a soft toy or mini cradle cutout. This corner piece is compact, easy to assemble, and great for home setups. It brings color and life to small spaces and is loved for its soft, traditional appeal. Best suited for photo corners or beside seating areas.",
+      "price": 1599,
+      "images": [
+        "data/Products_photos/namkaran13.webp",
+        "data/Products_photos/namkaran14.webp",
+       "data/Products_photos/namkaran15.webp",
+       "data/Products_photos/namkaran16.webp"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Namkaran Floral Name Frame Decor",
+      "description": "Highlight your baby's name with this unique floral name frame decoration. A soft pastel balloon frame surrounds the name board, which is written in elegant letters. Decorated with artificial flower accents and subtle golden touches, this decor element fits well on any wall or near the pooja space. Ideal for family functions, the setup is made using safe, eco-friendly materials and installed neatly in any space. It’s simple, effective, and adds meaning to the Namkaran moment.",
+      "price": 2799,
+      "images": [
+        "data/Products_photos/namkaran17.webp",
+      "data/Products_photos/namkaran18.webp",
+      "data/Products_photos/namkaran19.webp",
+      "data/Products_photos/namkaran20.webp"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Traditional Balloon & Flower Combo Decor",
+      "description": "This Namkaran decoration combines the best of Indian tradition with modern simplicity. It includes yellow and orange marigold flower strings, pastel balloon bunches, and a traditional 'Namkaran' printed banner. Ideal for entryways, photo areas, or pooja corners, this combo is vibrant without being over the top. It gives a festive look using easy-to-handle elements and is quick to assemble. A perfect choice for those looking for something cultural, colorful, and simple for a baby's naming day.",
+      "price": 2499,
+      "images": [
+         "data/Products_photos/namkaran21.webp",
+         "data/Products_photos/namkaran22.webp",
+         "data/Products_photos/namkaran23.webp",
+        "data/Products_photos/namkaran24.webp"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Simple Birthday Chalkboard Decoration",
+      "description": "Celebrate birthdays in a cheerful way with our simple chalkboard decoration service! We decorate the chalkboard with colorful balloons, bright paper flowers, and a clean chalk art design that suits any age. Perfect for kids or adults, the setup includes cheerful birthday messages, small buntings, and easy-to-remove decorations. We use eco-friendly materials and make sure everything looks neat and photo-ready. Our design is light and joyful, not too heavy or over-the-top, making it ideal for home or small party spaces. Whether it's a kid’s birthday or a surprise celebration, our setup brings a happy vibe without any fuss. All decorations are easy to clean up and won’t damage your chalkboard. Book us for a simple, sweet celebration!",
+      "price": 799,
+      "images": [
+        "data/Products_photos/image1_chalk.webp",
+        "data/Products_photos/image2_chalk.webp",
+        "data/Products_photos/image3_chalk.webp",
+        "data/Products_photos/image4_chalk.webp"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Welcome Baby Chalkboard Decoration",
+      "description": "Welcome your little bundle of joy with a heartwarming chalkboard decoration! Our simple decoration includes pastel balloons, cute paper flowers, and a hand-drawn 'Welcome Baby' message on your chalkboard. We keep it soft, sweet, and soothing – perfect for baby showers or homecomings. The decoration is lightweight and won’t take up too much space, ideal for living rooms or baby corners. We use soft colors like pink, blue, yellow, or custom as per your theme. The setup includes small stars, clouds, and floral add-ons to give it a dreamy look. It's easy to install and remove, with no damage to your wall or board. Celebrate the new arrival with our easy and adorable decoration service!",
+      "price": 999,
+      "images": [
+        "data/Products_photos/image5_chalk.webp",
+        "data/Products_photos/image6_chalk.webp",
+        "data/Products_photos/image7_chalk.webp",
+        "data/Products_photos/image8_chalk.webp"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Simple Festive Chalkboard Decoration",
+      "description": "Bring festive cheer into your home with our traditional-style chalkboard decoration! Whether it's Diwali, Holi, or any puja, our decoration service includes fresh marigold garlands, simple diya cutouts, and colorful chalk patterns like rangoli designs on your board. We pair this with balloons in warm Indian colors like saffron, red, and gold. This setup is perfect for your pooja room or living space to add a vibrant festive look without clutter. It’s ideal for small gatherings, family rituals, or even just to bring a festive feel at home. The materials are easy to set up and remove, keeping your space clean and elegant. Book our service to give your chalkboard a festive Indian touch!",
+      "price": 699,
+      "images": [
+        "data/Products_photos/image9_chalk.webp",
+        "data/Products_photos/image10_chalk.webp",
+        "data/Products_photos/image11_chalk.webp",
+        "data/Products_photos/image12_chalk.webp"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "School Event Chalkboard Decoration",
+      "description": "Make school events more exciting with our simple chalkboard decoration service! Whether it’s a teacher’s day, farewell, or annual day, we create a neat and cheerful look using balloons, crepe paper flowers, and themed chalk art. We include banners like ‘Happy Teacher’s Day’ or ‘Good Luck’ depending on the occasion. This service is perfect for classrooms, staff rooms, or school entrances. Our decorations are not loud but festive, maintaining school decorum while adding charm. We keep it neat, budget-friendly, and easy to clean up after the event. Perfect for government schools, private institutes, and tuition centers looking for something nice and simple. Let us help you decorate for your special day!",
+      "price": 599,
+      "images": [
+        "data/Products_photos/image13_chalk.webp",
+        "data/Products_photos/image14_chalk.webp",
+        "data/Products_photos/image15_chalk.webp",
+        "data/Products_photos/image16_chalk.webp"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Simple Welcome Standee Decoration",
+      "description": "Our simple welcome standee decoration is perfect for home functions, school events, or office parties. We decorate a plain standee with colorful balloons and fresh or paper flowers in a neat, minimal style. The welcome message is designed with an Indian touch using traditional patterns or plain fonts depending on your choice. The setup includes a border of balloons in colors like yellow, orange, pink, or custom. We also add small paper fans or cutouts to give a festive touch. Ideal for entrances or hallways, this decoration works for all occasions. The look is clean and elegant – not too loud, just the right amount of festive feel. The materials are lightweight, and we ensure quick setup and easy removal. It’s budget-friendly and suitable for small to medium-sized gatherings. Add warmth to your welcome with our simple, stylish decoration!",
+      "price": 899,
+      "images": [
+        "data/Products_photos/standee1.webp",
+        "data/Products_photos/standee2.webp",
+        "data/Products_photos/standee3.webp",
+        "data/Products_photos/standee4.webp"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Birthday Standee Decoration",
+      "description": "Make birthdays extra special with our simple birthday standee decoration! This service includes a birthday-themed standee with cheerful colors, balloons, and easy floral elements. We place balloons around the frame, add some star or heart-shaped cutouts, and include a sweet 'Happy Birthday' message. The look is clean, bright, and made to suit both kids and adults. You can choose colors like pastel pink, blue, or classic red-golden. It’s perfect for hall entrances, party corners, or even photo backdrops. The decoration materials are non-messy and safe to use indoors. We also offer options to personalize the name or age on the standee. The setup is quick and hassle-free, and we ensure the finish looks neat and photogenic. Celebrate in style with our easy birthday decoration service!",
+      "price": 1099,
+      "images": [
+        "data/Products_photos/standee5.webp",
+        "data/Products_photos/standee6.webp",
+        "data/Products_photos/standee7.webp",
+        "data/Products_photos/standee8.webp"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Simple Baby Welcome Standee",
+      "description": "Welcome your newborn with love and style using our simple baby welcome standee decoration. This sweet and soft setup features a cute standee with gentle decorations like balloons in baby blue, pink, or pastel tones, along with tiny paper flowers and cloud or star cutouts. The message reads 'Welcome Baby' or can be personalized with the baby’s name. The design is made for home entrances, living rooms, or even hospital rooms. Decorations are gentle and pleasant, giving a warm vibe without being overdone. We use eco-friendly and safe materials that are easy to remove. Ideal for small gatherings, homecomings, or even naming ceremonies. The setup takes very little time and gives a beautiful look for pictures and memories. Make the first welcome of your little one special and charming with this simple, budget-friendly standee decoration!",
+      "price": 999,
+      "images": [
+        "data/Products_photos/standee9.webp",
+        "data/Products_photos/standee10.webp",
+        "data/Products_photos/standee11.webp",
+        "data/Products_photos/standee12.webp"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Traditional Festival Standee Decoration",
+      "description": "Celebrate Indian festivals with our simple yet colorful standee decoration. Ideal for Diwali, Ganesh Chaturthi, Pongal, or any local celebration, our service includes a traditional message standee decorated with marigold-style garlands, diya cutouts, and balloons in festive colors like yellow, orange, and red. We also add paper rangoli patterns or symbols like Om, Swastik, or Kalash for an authentic touch. The setup is great for apartment entrances, society functions, pooja corners, or small stage areas. It’s a minimal design but brings a strong festive vibe. Materials used are light and easy to clean up. This decoration brings joy without being flashy or loud, perfect for peaceful and respectful celebrations. Book this service for a neat and simple Indian-style festive standee!",
+      "price": 799,
+      "images": [
+        "data/Products_photos/standee13.webp",
+        "data/Products_photos/standee14.webp",
+        "data/Products_photos/standee15.webp",
+        "data/Products_photos/standee16.webp"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Golden 50th Anniversary Balloon Setup",
+      "description": "Celebrate 50 years of love with our simple golden anniversary balloon decoration. This service includes a clean backdrop with golden and white balloons arranged around a 'Happy 50th Anniversary' board. We add some light flower accents like artificial roses or marigolds to give it a warm Indian touch. It’s perfect for living rooms, balconies, or party halls. The decoration is done in a soft and classy style – not heavy, just enough to give a festive and elegant look. Ideal for couples celebrating their golden journey, this setup brings joy without being too flashy. Our materials are easy to handle and remove, ensuring a neat and photo-friendly finish. Great for family gatherings, small cake-cuttings, or surprise events at home. Add charm to your parents’ or grandparents’ big day with our easy and thoughtful decor!",
+      "price": 1199,
+      "images": [
+        "data/Products_photos/anniv1.webp",
+        "data/Products_photos/anniv2.webp",
+        "data/Products_photos/anniv3.webp",
+        "data/Products_photos/anniv4.webp"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Simple 50th Anniversary Wall Decor",
+      "description": "Keep it sweet and simple with our 50th Anniversary wall decoration setup. We use metallic number balloons (5-0), matching latex balloons in gold and white, and basic floral garlands to highlight a wall area or backdrop. This decoration works great behind a sofa, dining area, or near the cake-cutting spot. A light ‘Happy Anniversary’ banner is added in paper or foam, depending on your preference. We also place a few heart or star-shaped balloons to add emotion. This service is designed for homes or flats, where space is limited but the joy is grand. All items used are safe, easy to install, and remove. Perfect for small celebrations with family, and adds that special touch to your golden milestone event. Book our service for an affordable and lovely setup today!",
+      "price": 999,
+      "images": [
+        "data/Products_photos/anniv5.webp",
+        "data/Products_photos/anniv6.webp",
+        "data/Products_photos/anniv7.webp",
+        "data/Products_photos/anniv8.webp"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Golden Jubilee Flower and Balloon Mix",
+      "description": "Mark 50 years of love and togetherness with our Golden Jubilee mix decoration! This simple and elegant setup combines soft floral elements and golden balloons around a custom anniversary standee or photo frame. We use white, cream, and light yellow flowers along with gold balloon bunches to give a balanced and graceful look. You can place this decor near the entrance or as a centerpiece for the celebration area. We keep it neat and meaningful, using minimal props so the couple remains the highlight. It’s great for small halls, apartments, or society clubhouses. Ideal for anyone who wants beauty without clutter. The setup takes about an hour and can be done without nails or damage to walls. Celebrate the golden journey of your loved ones with our peaceful and photogenic decor.",
+      "price": 1399,
+      "images": [
+        "data/Products_photos/anniv9.webp",
+        "data/Products_photos/anniv10.webp",
+        "data/Products_photos/anniv11.webp",
+        "data/Products_photos/anniv12.webp"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Traditional 50th Anniversary Home Decoration",
+      "description": "For those who prefer a traditional Indian touch, our home-style 50th Anniversary decoration is just right. This service includes a backdrop of marigold garlands (artificial or fresh), golden balloons, and a simple banner with ‘50 Years of Togetherness’ written in elegant font. We add small diya or bell cutouts, and you can even request a framed photo of the couple as a centerpiece. The decoration fits beautifully in pooja rooms, hallways, or verandas. It’s calm, homely, and perfect for elderly couples who appreciate simplicity. All materials used are reusable or eco-friendly. This setup works well for early morning poojas, lunch celebrations, or evening cake-cuttings. Make the event cozy, cultural, and beautiful without going over the top. This is one of our most loved Indian-style anniversary decorations.",
+      "price": 1099,
+      "images": [
+        "data/Products_photos/anniv13.webp",
+        "data/Products_photos/anniv14.webp",
+        "data/Products_photos/anniv15.webp",
+        "data/Products_photos/anniv16.webp"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Simple Anniversary Balloon Decor",
+      "description": "Celebrate love with our Simple Anniversary Balloon Decor service. Perfect for home or small venues, this setup includes basic balloon bunches in red, white, and gold colors. We add a soft 'Happy Anniversary' banner and a few floral cutouts to keep things elegant and cheerful. This setup works beautifully for dining areas, living room corners, or balconies. It's easy to install and remove, leaving no mess behind. The decoration is perfect for couples who want a romantic, cozy setting without going overboard. Ideal for surprises or casual celebrations. Our decoration style is neat and simple, using eco-friendly materials where possible. The color scheme can be adjusted as per your preference. Make your anniversary memorable with our warm and tasteful decor – minimal effort, maximum love!",
+      "price": 899,
+      "images": [
+        "data/Products_photos/anniversary1.webp",
+        "data/Products_photos/anniversary2.webp",
+        "data/Products_photos/anniversary3.webp",
+        "data/Products_photos/anniversary4.webp"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Home Anniversary Wall Setup",
+      "description": "Add a romantic vibe to your anniversary celebration with our Home Anniversary Wall Setup. We use metallic number balloons to mark the years and complement it with red heart balloons, soft lighting (optional), and a paper flower backdrop. A lovely 'Happy Anniversary' sign completes the look. Ideal for surprise celebrations, cake-cutting moments, or couple photos. This decoration is neat, budget-friendly, and suited for compact spaces like bedroom walls or behind a dining table. The setup is easy to install without damaging walls and brings a festive charm to your space. Our team takes care of everything from setup to cleanup, so you can focus on celebrating love. Great for couples celebrating milestone years at home in a simple, sweet way.",
+      "price": 1099,
+      "images": [
+        "data/Products_photos/anniversary5.webp",
+        "data/Products_photos/anniversary6.webp",
+        "data/Products_photos/anniversary7.webp",
+        "data/Products_photos/anniversary8.webp"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Romantic Balloon & Flower Combo",
+      "description": "Create a romantic atmosphere with our Balloon & Flower Combo decoration. This setup includes soft pastel balloons, rose-gold or silver heart balloons, and artificial flower garlands. We design a sweet background for couple seating or cake-cutting areas. The colors are customizable and the decoration style is clean and charming. Great for anniversaries at home, hotels, or even small banquet rooms. The materials are lightweight and safe for all surfaces. This decor brings elegance without the clutter and is especially great for intimate dinners or photo sessions. It’s easy to install, looks beautiful, and adds a lovely touch to your celebration.",
+      "price": 1299,
+      "images": [
+        "data/Products_photos/anniversary9.webp",
+        "data/Products_photos/anniversary10.webp",
+        "data/Products_photos/anniversary11.webp",
+        "data/Products_photos/anniversary12.webp"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Minimalist Couple Anniversary Decor",
+      "description": "For couples who prefer simplicity, our Minimalist Anniversary Decor is a perfect fit. This decoration features a clean layout with a few balloon bunches, a paper banner, and a flower string or two to bring in freshness. Ideal for smaller apartments or quiet dinners at home. We use soft tones like white, cream, and rose to keep the atmosphere calm and romantic. This setup doesn’t involve too many items or effort – quick to install and easy to remove. It's also suitable for elderly couples celebrating long years of togetherness with grace and peace. Elegant and simple, just like the love being celebrated.",
+      "price": 799,
+      "images": [
+        "data/Products_photos/anniversary13.webp",
+        "data/Products_photos/anniversary14.webp",
+        "data/Products_photos/anniversary15.webp",
+        "data/Products_photos/anniversary16.webp"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Anniversary Standee Decoration",
+      "description": "Enhance your event with our Anniversary Standee Decoration. We place a couple-themed standee with a 'Happy Anniversary' message and decorate it using balloons and paper flowers around the border. Ideal for entrances or photo corners at home or party halls. We use festive colors like red, pink, or gold based on your choice. The decor is clean, beautiful, and made for picture-perfect memories. Great for both young and elderly couples celebrating love. Easy to move, easy to clean – this decoration is a simple yet eye-catching addition to any celebration space.",
+      "price": 999,
+      "images": [
+        "data/Products_photos/anniversary17.webp",
+        "data/Products_photos/anniversary18.webp",
+        "data/Products_photos/anniversary19.webp",
+        "data/Products_photos/anniversary20.webp"
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Traditional Anniversary Corner Decor",
+      "description": "Bring in a touch of Indian tradition with our Traditional Anniversary Corner Decor. This setup includes flower garlands (fresh or artificial), golden balloons, and symbolic decorations like bells or diya cutouts. We decorate a corner of your living room or pooja area for anniversary rituals or family gatherings. The look is simple, warm, and deeply cultural. No complicated setups or heavy props – just clean, elegant decoration that respects tradition. This works especially well for older couples and those who want to keep it meaningful and connected to Indian roots. Add value and beauty to your space while keeping the vibe calm and respectful.",
+      "price": 1199,
+      "images": [
+        "data/Products_photos/anniversary21.webp",
+        "data/Products_photos/anniversary22.webp",
+        "data/Products_photos/anniversary23.webp",
+        "data/Products_photos/anniversary24.webp"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Christmas Tree Balloon Backdrop",
+      "description": "Celebrate Christmas with a simple yet beautiful balloon backdrop designed like a Christmas tree. This setup features balloons in red, green, and white arranged to mimic the shape of a Christmas tree. The tree is decorated with small artificial flower garlands and a star at the top. This design is perfect for placing behind the gift table or as a backdrop for family photos. The colors and festive touch give a warm, inviting atmosphere to any home or small gathering. Easy to set up and safe, it’s a cheerful addition to your Christmas celebrations.",
+      "price": 2699,
+      "images": [
+        "data/Products_photos/christmas1.webp",
+        "data/Products_photos/christmas2.webp",
+        "data/Products_photos/christmas3.webp",
+        "data/Products_photos/christmas4.webp"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Christmas Table Balloon and Flower Decor",
+      "description": "Make your Christmas dining table stand out with this charming decoration. This includes balloon bouquets in Christmas colors (red, green, and white) placed on either side of the table. The balloons are accented with small artificial flowers and a few Christmas-themed props like snowflakes or mini gifts. It creates a warm, festive feeling without overwhelming the space. This setup is perfect for family gatherings or small parties, giving a traditional yet modern touch to your holiday table setup.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/christmas5.webp",
+        "data/Products_photos/christmas6.webp",
+        "data/Products_photos/christmas7.webp",
+        "data/Products_photos/christmas8.webp"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Christmas Doorway Balloon Arch",
+      "description": "Welcome your guests into the Christmas spirit with a simple yet festive balloon arch. The arch is decorated with a combination of red, green, and white balloons and a touch of gold for an elegant look. Small artificial flowers are included to add a natural touch to the setup. Perfect for entranceways, doorways, or photo spaces, this decoration brings instant joy and cheer to your home. It's an easy and affordable way to add a festive mood to your celebration without the complexity of a large setup.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/christmas9.webp",
+        "data/Products_photos/christmas10.webp",
+        "data/Products_photos/christmas11.webp",
+        "data/Products_photos/christmas12.webp"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Christmas Gift Table Decor",
+      "description": "Decorate the Christmas gift table with this simple yet elegant setup. It features a combination of red, white, and green balloons on either side of the table, along with a few flower accents for a natural look. A small Christmas-themed sign and ribbons are added to give the table a festive touch. This decoration is easy to install, takes up minimal space, and looks fantastic for both traditional and modern-themed Christmas celebrations. It’s perfect for family gift exchanges or intimate gatherings.",
+      "price": 1799,
+      "images": [
+        "data/Products_photos/christmas13.webp",
+        "data/Products_photos/christmas14.webp",
+        "data/Products_photos/christmas15.webp",
+        "data/Products_photos/christmas16.webp"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Christmas Photo Booth Backdrop",
+      "description": "Create a memorable photo booth for your Christmas celebration with this simple backdrop. It includes a mix of colorful balloons in red, white, and green, complemented by small flower garlands and Christmas-themed props such as snowflakes, reindeer, and candy canes. This decoration is ideal for creating a cozy and festive photo space. It’s perfect for family photos, making your Christmas gathering even more memorable. Quick to set up and remove, this setup is both practical and festive.",
+      "price": 2299,
+      "images": [
+        "data/Products_photos/christmas17.webp",
+        "data/Products_photos/christmas18.webp",
+        "data/Products_photos/christmas19.webp",
+        "data/Products_photos/christmas20.webp"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Christmas Mantelpiece Decor",
+      "description": "This simple mantelpiece decor brings a touch of Christmas cheer to your home. It features a mix of red, white, and green balloons placed across the top of the mantelpiece, along with a few artificial flowers for added elegance. Small Christmas-themed items such as mini stockings or baubles can be added for a charming finish. This decoration is perfect for homes with a fireplace or mantel and gives the space a festive atmosphere without overwhelming the room. It’s an affordable and hassle-free way to celebrate the season.",
+      "price": 1999,
+      "images": [
+        "data/Products_photos/christmas21.webp",
+        "data/Products_photos/christmas22.webp",
+        "data/Products_photos/christmas23.webp",
+        "data/Products_photos/christmas24.webp"
+      ]
+    },
+     {
+      "id": 88,
+      "title": "Diwali Balloon Arch",
+      "description": "Celebrate the festival of lights with a stunning Diwali balloon arch. This simple yet festive decoration features balloons in vibrant colors like gold, red, green, and yellow, arranged to form a beautiful archway. The arch is enhanced with artificial flower garlands that add a touch of tradition to the modern setup. Perfect for entryways or photo areas, this decoration provides a warm welcome to guests. It is easy to install and brings the spirit of Diwali into your home without being overly complex.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/diwali1.webp",
+        "data/Products_photos/diwali2.webp",
+        "data/Products_photos/diwali3.webp",
+        "data/Products_photos/diwali4.webp"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Diwali Table Centerpiece Decoration",
+      "description": "This Diwali table centerpiece decoration adds elegance and charm to your festive meals. It features a combination of balloons in rich Diwali colors like red, orange, and yellow, paired with beautiful artificial flower arrangements. The centerpiece is completed with a small diya (oil lamp) decoration to evoke the true spirit of Diwali. The decor is simple yet vibrant, perfect for family gatherings and dinners. It’s quick to set up and brings a festive atmosphere to your dining table, making the celebration even more special.",
+      "price": 1999,
+      "images": [
+        "data/Products_photos/diwali5.webp",
+        "data/Products_photos/diwali6.webp",
+        "data/Products_photos/diwali7.webp",
+        "data/Products_photos/diwali8.webp"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Diwali Wall Backdrop",
+      "description": "This Diwali wall backdrop is designed to brighten up your celebration space. The backdrop is decorated with a mixture of bright balloons in colors like yellow, red, and gold, symbolizing the festive spirit of Diwali. It also includes artificial marigold flower garlands for a traditional touch. The backdrop is perfect for family photos or as the focal point of your Diwali celebrations. It’s easy to assemble and provides a beautiful, colorful backdrop for any gathering or pooja ceremony, creating an unforgettable Diwali atmosphere.",
+      "price": 2399,
+      "images": [
+        "data/Products_photos/diwali9.webp",
+        "data/Products_photos/diwali10.webp",
+        "data/Products_photos/diwali11.webp",
+        "data/Products_photos/diwali12.webp"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Diwali Doorway Balloon Decoration",
+      "description": "Welcome guests to your Diwali celebration with this festive doorway balloon decoration. The decoration includes a mix of bright balloons in red, gold, and green, arranged to create a simple but elegant arch or hanging garland. Small artificial flower bunches enhance the setup, adding a traditional touch. It’s perfect for the main entrance of your home or party space. This decoration creates an inviting atmosphere that reflects the joy and warmth of the Diwali festival, all with a minimal setup that is easy to install.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/diwali13.webp",
+        "data/Products_photos/diwali14.webp",
+        "data/Products_photos/diwali15.webp",
+        "data/Products_photos/diwali16.webp"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Diwali Gift Table Decoration",
+      "description": "Add a festive touch to your Diwali gift table with this simple yet beautiful decoration. The table is adorned with colorful balloons in bright hues of red, orange, and green, accented by artificial flower garlands. The decoration also includes Diwali-themed items like small diyas and mini lanterns placed around the table. This setup is perfect for showcasing your Diwali gifts and sweets, adding a warm and inviting atmosphere to your celebration. It’s easy to arrange and gives your home a festive, traditional feel.",
+      "price": 1899,
+      "images": [
+        "data/Products_photos/diwali17.webp",
+        "data/Products_photos/diwali18.webp",
+        "data/Products_photos/diwali19.webp",
+        "data/Products_photos/diwali20.webp"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Simple Diwali Corner Decoration",
+      "description": "Fill any corner of your home with festive cheer using this simple Diwali corner decoration. The setup features a combination of bright Diwali colors in the form of balloons and artificial flowers, along with small traditional items like diyas and mini rangoli patterns. It’s an easy way to bring the warmth and brightness of Diwali to smaller spaces in your home, such as corners or side tables. This decoration provides a traditional feel with modern simplicity, and it's ideal for homes with limited space or for those looking for an easy Diwali touch-up.",
+      "price": 1799,
+      "images": [
+        "data/Products_photos/diwali21.webp",
+        "data/Products_photos/diwali22.webp",
+        "data/Products_photos/diwali23.webp",
+        "data/Products_photos/diwali24.webp"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Lantern-Themed Balloon Arch",
+      "description": "Illuminate your party with this stunning lantern-themed balloon arch. This decoration features a combination of balloons in shades of gold, red, and white, arranged to create a beautiful archway. Small lantern-inspired accents, including paper lanterns and light strings, are incorporated into the design to add a warm glow. Perfect for entranceways, the balloon arch is both eye-catching and festive, welcoming guests with a traditional yet modern charm. The addition of artificial flower garlands enhances the beauty, creating an inviting atmosphere for any party or event.",
+      "price": 2599,
+      "images": [
+        "data/Products_photos/lantern1.webp",
+        "data/Products_photos/lantern2.webp",
+        "data/Products_photos/lantern3.webp",
+        "data/Products_photos/lantern4.webp"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Lantern-Inspired Table Centerpiece",
+      "description": "Add a soft and elegant touch to your party with this lantern-inspired table centerpiece. The decoration combines balloons in gold, white, and yellow with small, decorative lanterns placed at the center of each table. The centerpiece is complemented with artificial flower arrangements around the lanterns, creating a simple yet sophisticated ambiance. Ideal for dinner parties, this decoration brings the beauty of traditional lanterns to modern celebrations, offering a serene, glowing touch to your event. It's perfect for intimate gatherings or elegant party setups.",
+      "price": 2199,
+      "images": [
+        "data/Products_photos/lantern5.webp",
+        "data/Products_photos/lantern6.webp",
+        "data/Products_photos/lantern7.webp",
+        "data/Products_photos/lantern8.webp"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Lantern-Themed Photo Booth Backdrop",
+      "description": "Capture beautiful memories with this lantern-themed photo booth backdrop. The setup includes vibrant balloons in gold, red, and cream arranged in a way that mimics lantern patterns. Miniature lanterns with soft lights are hung along with garlands of artificial flowers to enhance the festive atmosphere. The backdrop serves as an ideal spot for guests to take photos, offering a combination of tradition and modernity. Whether it’s for a birthday, anniversary, or any special occasion, this lantern-inspired backdrop adds a magical glow to your celebration.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/lantern9.webp",
+        "data/Products_photos/lantern10.webp",
+        "data/Products_photos/lantern11.webp",
+        "data/Products_photos/lantern12.webp"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Lantern-Themed Doorway Decoration",
+      "description": "Create a warm and welcoming entrance with this lantern-themed doorway decoration. The design features balloons in gold and white, combined with hanging lanterns that emit a soft, warm glow. Artificial flower garlands wrap around the lanterns and balloons, adding a fresh, natural touch. The simple yet beautiful setup is perfect for marking the entrance to your party, creating a vibrant and inviting atmosphere. This decoration suits both indoor and outdoor spaces and brings a festive, cozy vibe to your event, ideal for welcoming guests in style.",
+      "price": 2399,
+      "images": [
+        "data/Products_photos/lantern13.webp",
+        "data/Products_photos/lantern14.webp",
+        "data/Products_photos/lantern15.webp",
+        "data/Products_photos/lantern16.webp"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Basic Balloon Arch with Crepe Paper",
+      "description": "Create an inviting entrance for your event with a simple yet charming balloon arch, enhanced with crepe paper streamers. This decoration combines colorful balloons in shades of red, white, and yellow with flowing crepe paper to add texture and vibrancy. The design is easy to set up and adds a festive, cheerful touch to any party. Perfect for welcoming guests at a birthday, anniversary, or casual gathering, this simple setup provides a welcoming atmosphere without the need for complex elements.",
+      "price": 1999,
+      "images": [
+        "data/Products_photos/party1.webp",
+        "data/Products_photos/party2.webp",
+        "data/Products_photos/party3.webp",
+        "data/Products_photos/party4.webp"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Balloon Stand with Simple Crepe Paper Backdrop",
+      "description": "This simple decoration setup includes a stand with colorful balloons arranged in a playful manner, complemented by a minimalist crepe paper backdrop. The crepe paper flows gracefully behind the balloons, enhancing their vibrant colors and adding depth to the decor. This decoration is perfect for photo areas or party corners, creating a lively yet simple ambiance. It’s an ideal choice for smaller parties, family gatherings, or casual celebrations, offering a fun atmosphere without the complexity of other elaborate decorations.",
+      "price": 1799,
+      "images": [
+        "data/Products_photos/party5.webp",
+        "data/Products_photos/party6.webp",
+        "data/Products_photos/party7.webp",
+        "data/Products_photos/party8.webp"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Crepe Paper Streamer and Balloon Garland",
+      "description": "This party decoration features a balloon garland made up of bright colors like red, green, and yellow, intertwined with crepe paper streamers. The garland can be hung along walls, ceilings, or tables to add an instant festive feel to any event. The mix of balloons and crepe paper brings a traditional yet modern vibe to your celebration, making it a perfect decoration for birthdays, casual parties, or family events. This setup is easy to install and offers a vibrant yet simple decoration solution.",
+      "price": 2099,
+      "images": [
+        "data/Products_photos/party9.webp",
+        "data/Products_photos/party10.webp",
+        "data/Products_photos/party11.webp",
+        "data/Products_photos/party12.webp"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Crepe Paper and Balloon Wall Decoration",
+      "description": "Transform any wall into a beautiful focal point with this simple yet charming crepe paper and balloon wall decoration. The wall is adorned with colorful balloons in shades of blue, pink, and white, combined with layers of crepe paper streamers that cascade down to add texture and depth. This decoration is perfect for birthdays, baby showers, or casual parties, offering a colorful and lively backdrop for photos and celebrations. The setup is quick and easy, providing an elegant touch to your event.",
+      "price": 2299,
+      "images": [
+        "data/Products_photos/party13.webp",
+        "data/Products_photos/party14.webp",
+        "data/Products_photos/party15.webp",
+        "data/Products_photos/party16.webp"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Balloon Bouquet with Crepe Paper Accents",
+      "description": "Enhance your party tables with these balloon bouquets, featuring vibrant balloons paired with colorful crepe paper accents. The bouquet of balloons in shades of yellow, red, and blue is complemented by neatly arranged crepe paper that adds a soft touch. This simple yet striking decoration is perfect for centerpiece tables, food stations, or as individual décor pieces around your venue. It’s a great addition to any small event or gathering, creating a cheerful and festive atmosphere with minimal effort.",
+      "price": 1699,
+      "images": [
+        "data/Products_photos/party17.webp",
+        "data/Products_photos/party18.webp",
+        "data/Products_photos/party19.webp",
+        "data/Products_photos/party20.webp"
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Balloon Arch with Floral Accents",
+      "description": "Create a simple yet stunning entrance for your party with this balloon arch, enhanced with fresh floral accents. The arch is made up of colorful balloons like pink, white, and lavender, while artificial flowers are added at the base for a traditional touch. This elegant and minimal decoration is ideal for welcoming guests at birthdays, anniversaries, or any casual celebration. It’s easy to assemble and creates an instant festive atmosphere, offering a balance of modern and traditional elements for a fun party ambiance.",
+      "price": 2399,
+      "images": [
+        "data/Products_photos/party21.webp",
+        "data/Products_photos/party22.webp",
+        "data/Products_photos/party23.webp",
+        "data/Products_photos/party24.webp"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Numeric Balloon Decoration (1st Birthday)",
+      "description": "Celebrate your little one's first birthday with a simple yet charming numeric balloon decoration. This setup features large, colorful numeric balloons shaped as '1', complemented with smaller balloons and artificial flower arrangements around the base. The combination of balloons in shades of pink, white, and blue brings a joyful and celebratory vibe. Perfect for creating a memorable photo spot, this decoration provides a cheerful and welcoming atmosphere for your guests while maintaining a simple and minimalistic approach.",
+      "price": 2499,
+      "images": [
+        "data/Products_photos/num1.webp",
+        "data/Products_photos/num2.webp",
+        "data/Products_photos/num3.webp",
+        "data/Products_photos/num4.webp"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Numeric Balloon Decoration (2nd Birthday)",
+      "description": "Make your child's second birthday extra special with this easy and beautiful numeric balloon setup. Featuring a large number '2' balloon in bright, festive colors like red, yellow, and white, this decoration is complemented by smaller balloons and artificial flowers arranged around the base. The simple design ensures a joyful, celebratory atmosphere without overwhelming the space. Perfect for a party centerpiece or photo area, this decoration will capture the essence of your celebration while remaining elegant and understated.",
+      "price": 2699,
+      "images": [
+        "data/Products_photos/num5.webp",
+        "data/Products_photos/num6.webp",
+        "data/Products_photos/num7.webp",
+        "data/Products_photos/num8.webp"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Numeric Balloon Decoration (5th Birthday)",
+      "description": "This simple yet stunning numeric balloon decoration is perfect for celebrating your child's fifth birthday. Featuring a large number '5' balloon, this design is accented with balloons in shades of blue, yellow, and white. Small flower arrangements are added to provide a touch of elegance, making the space vibrant and welcoming. The setup works well as an entrance display or a backdrop for party photos. It’s an easy and beautiful decoration that adds a personal touch to your special day.",
+      "price": 2999,
+      "images": [
+        "data/Products_photos/num9.webp",
+        "data/Products_photos/num10.webp",
+        "data/Products_photos/num11.webp",
+        "data/Products_photos/num12.webp"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Numeric Balloon Decoration (10th Birthday)",
+      "description": "For a milestone birthday like the 10th, this numeric balloon decoration brings fun and elegance to your celebration. Featuring large, colorful number '10' balloons in a mix of blue, red, and white, the arrangement is accented with smaller balloons and floral garlands for a balanced look. The design is simple and fresh, making it ideal for any venue, from intimate gatherings to larger parties. This decoration will create a memorable atmosphere for your guest of honor while keeping things light and beautiful.",
+      "price": 3199,
+      "images": [
+        "data/Products_photos/num13.webp",
+        "data/Products_photos/num14.webp",
+        "data/Products_photos/num15.webp",
+        "data/Products_photos/num16.webp"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Numeric Balloon Decoration (16th Birthday)",
+      "description": "Celebrate a sweet sixteen with this simple yet stylish numeric balloon decoration. This setup features a large number '16' balloon in metallic gold and silver, paired with smaller balloons in contrasting colors like white and pink. The design includes subtle floral arrangements to create an elegant and festive atmosphere. Perfect for photo booths or as a centerpiece for the party, this decoration is ideal for any celebration where simplicity meets style.",
+      "price": 3499,
+      "images": [
+        "data/Products_photos/num17.webp",
+        "data/Products_photos/num18.webp",
+        "data/Products_photos/num19.webp",
+        "data/Products_photos/num20.webp"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Numeric Balloon Decoration (18th Birthday)",
+      "description": "Commemorate the 18th birthday with a sophisticated numeric balloon decoration. Featuring large '18' balloons in metallic gold, the arrangement includes smaller balloons in complementary shades like black, silver, and white. Fresh floral arrangements are placed at the base of the numbers to enhance the celebratory vibe. This decoration is perfect for creating a memorable photo backdrop or enhancing the party atmosphere, offering an easy yet stunning decoration solution for your milestone birthday.",
+      "price": 3799,
+      "images": [
+        "data/Products_photos/num21.webp",
+        "data/Products_photos/num22.webp",
+        "data/Products_photos/num23.webp",
+        "data/Products_photos/num24.webp"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Numeric Balloon Decoration (30th Birthday)",
+      "description": "Celebrate the big 3-0 with a chic and simple numeric balloon decoration. This setup features large '30' balloons in shades of gold and black, creating a stylish and sophisticated look for your milestone birthday. Smaller balloons in coordinating colors and subtle floral accents complete the design. Ideal for photo areas or as a focal point in the party space, this decoration offers a modern and fresh take on the traditional numeric balloon setup.",
+      "price": 3999,
+      "images": [
+        "data/Products_photos/num25.webp",
+        "data/Products_photos/num26.webp",
+        "data/Products_photos/num27.webp",
+        "data/Products_photos/num28.webp"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "Numeric Balloon Decoration (50th Anniversary)",
+      "description": "Mark the 50th anniversary with a grand and elegant numeric balloon decoration. This setup features large, metallic number '50' balloons in shades of gold and silver. Smaller balloons and delicate floral accents surround the numbers to add warmth and sophistication to the design. This decoration is perfect for milestone anniversaries, creating a memorable and timeless photo backdrop for the couple and their guests. With its simple yet elegant design, this decoration enhances any celebration of love and lasting memories.",
+      "price": 4499,
+      "images": [
+        "data/Products_photos/num29.webp",
+        "data/Products_photos/num30.webp",
+        "data/Products_photos/num31.webp",
+        "data/Products_photos/num32.webp"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Foil Balloon Decoration (Happy Birthday Theme)",
+      "description": "Celebrate any birthday with our simple foil balloon decoration service. The setup features shiny foil balloons spelling 'Happy Birthday', combined with colorful latex balloons and small floral arrangements. This decoration brings a festive atmosphere without being overwhelming, making it perfect for intimate gatherings or larger parties. The metallic shine of the foil balloons adds a touch of elegance, while the simplicity of latex balloons and flowers keeps the setup cheerful and welcoming. Whether for a child's birthday or a milestone celebration, this decoration is a perfect way to create a memorable event.",
+      "price": 2799,
+      "images": [
+        "data/Products_photos/foil1.webp",
+        "data/Products_photos/foil2.webp",
+        "data/Products_photos/foil3.webp",
+        "data/Products_photos/foil4.webp"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Foil Balloon Decoration (Baby Shower Theme)",
+      "description": "Celebrate the arrival of a little one with our simple yet charming foil balloon decoration. Featuring 'Baby' or 'It's a Girl/Boy' foil balloons, this decoration is complemented by pastel-colored latex balloons and soft floral accents. The metallic foil balloons catch the light beautifully, adding a special touch to any baby shower. This setup is ideal for creating a warm, joyful atmosphere for guests while remaining elegant and understated. Perfect for a cozy gathering or a larger party, this decoration is sure to leave a lasting impression.",
+      "price": 2899,
+      "images": [
+        "data/Products_photos/foil5.webp",
+        "data/Products_photos/foil6.webp",
+        "data/Products_photos/foil7.webp",
+        "data/Products_photos/foil8.webp"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Foil Balloon Decoration (Anniversary Theme)",
+      "description": "Make your anniversary celebration extra special with this elegant foil balloon decoration. The setup includes foil balloons shaped as 'Love', 'Forever', or a custom anniversary message, paired with smaller latex balloons in shades of red, gold, or silver. The addition of simple floral arrangements enhances the romantic atmosphere. This decoration works beautifully for both intimate and larger gatherings, creating a loving, celebratory vibe without being too flashy. With its sleek and minimal design, this setup ensures your anniversary is remembered for its warmth and beauty.",
+      "price": 2999,
+      "images": [
+        "data/Products_photos/foil9.webp",
+        "data/Products_photos/foil10.webp",
+        "data/Products_photos/foil11.webp",
+        "data/Products_photos/foil12.webp"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Foil Balloon Decoration (Wedding Theme)",
+      "description": "Our foil balloon decoration for weddings is a perfect blend of elegance and simplicity. Featuring large foil balloons with messages like 'Mr. & Mrs.' or initials of the couple, paired with soft, neutral-colored latex balloons and delicate flowers. This minimalist yet striking design creates a romantic backdrop for wedding photos and celebrations. The shine of the foil balloons adds glamour, while the simplicity of the latex balloons and flowers ensures a balanced, tasteful decoration for one of the most important days in your life.",
+      "price": 3499,
+      "images": [
+        "data/Products_photos/foil13.webp",
+        "data/Products_photos/foil14.webp",
+        "data/Products_photos/foil15.webp",
+        "data/Products_photos/foil16.webp"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Foil Balloon Decoration (Graduation Theme)",
+      "description": "Celebrate a significant achievement with our graduation-themed foil balloon decoration. This setup features 'Congrats' or 'Graduation' foil balloons in metallic colors like gold, silver, and blue, complemented by simple latex balloons and flower accents. The foil balloons add a touch of class and sophistication to the occasion, while the floral elements keep the atmosphere fresh and celebratory. Whether it's for a small gathering or a larger celebration, this decoration is designed to bring a sense of pride and joy to the graduate and their guests.",
+      "price": 3199,
+      "images": [
+        "data/Products_photos/foil17.webp",
+        "data/Products_photos/foil18.webp",
+        "data/Products_photos/foil19.webp",
+        "data/Products_photos/foil20.webp"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Foil Balloon Decoration (New Year Theme)",
+      "description": "Ring in the New Year with a vibrant foil balloon decoration setup. Featuring foil balloons shaped as 'Happy New Year' or '2024', complemented by latex balloons in festive colors like gold, silver, and black. Simple flower arrangements add to the celebratory mood, creating a fun yet elegant atmosphere. This decoration works perfectly for New Year's Eve parties or any event to celebrate the upcoming year, adding a touch of glamour and fun to the occasion.",
+      "price": 3299,
+      "images": [
+        "data/Products_photos/foil21.webp",
+        "data/Products_photos/foil22.webp",
+        "data/Products_photos/foil23.webp",
+        "data/Products_photos/foil24.webp"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Foil Balloon Decoration (Christmas Theme)",
+      "description": "Celebrate the festive season with this simple yet elegant foil balloon decoration for Christmas. Featuring foil balloons shaped as 'Merry Christmas' or Christmas-related designs like stars and trees, combined with colorful latex balloons and small floral arrangements. This decoration brings a warm, festive atmosphere to any gathering, from intimate family dinners to larger holiday parties. The metallic foil balloons reflect the Christmas lights beautifully, enhancing the cozy and joyful vibe of the season.",
+      "price": 3499,
+      "images": [
+        "data/Products_photos/foil25.webp",
+        "data/Products_photos/foil26.webp",
+        "data/Products_photos/foil27.webp",
+        "data/Products_photos/foil28.webp"
+      ]
+    },
+      {
+        "id": 119,
+      "title": "Foil Balloon Decoration (Birthday Milestone)",
+      "description": "Mark a milestone birthday with a special foil balloon decoration. Whether it's for a 30th, 40th, or any significant age, this decoration includes large foil balloons with the birthday number or 'Happy Birthday' message. Complemented with smaller latex balloons in coordinating colors and fresh flower arrangements, this decoration is perfect for creating a memorable atmosphere. The shine of the foil balloons adds elegance and festivity to the celebration, ensuring the milestone is celebrated in style.",
+      "price": 3599,
+      "images": [
+        "data/Products_photos/foil29.webp",
+        "data/Products_photos/foil30.webp",
+        "data/Products_photos/foil31.webp",
+        "data/Products_photos/foil32.webp"
+      ]
+    }
+  ]
