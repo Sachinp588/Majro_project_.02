@@ -1,0 +1,133 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Container for the product grid */
+#product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));  /* Automatically fills columns based on screen width */
+  gap: 20px;  /* Space between the product cards */
+  justify-content: center;  /* Centers the grid */
+  padding: 20px;
+  max-width: 1200px;  /* Maximum width to limit the grid size */
+  margin: 0 auto;  /* Centers the grid container on the page */
+}
+
+/* Styling for individual product cards */
+.product-card {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+  
+}
+
+/* Hover effect for product cards */
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+/* Styling for product images */
+.product-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+/* Styling for product title and price */
+.product-card h3 {
+  font-size: 1.2rem;
+  color: #333;
+  margin: 20px 0;
+  margin-bottom: 10px;
+}
+
+.product-card p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Styling for buttons in each product card */
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  
+}
+
+.buttons button {
+  padding: 12px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+.btn-row{
+  display: flex;
+    gap: 10px;
+    width: 100%;
+    justify-content: center;
+}
+
+
+
+
+/*add-btn  , book-btn*/
+
+.add-btn , .book-btn{
+    width: 50%;
+    padding: 10px;
+    border: none;
+    cursor: pointer; 
+   }
+.buttons button.book-btn {
+  background-color: #28a745;
+}
+.buttons button.book-btn:hover {
+  background-color: #218838;
+}
+.buttons button.add-btn {
+  background-color: #fd7e14;
+}
+.buttons button.add-btn:hover {
+  background-color: #e8590c;
+}
+
+
+
+
+
+    /*.more-btn*/
+.more-btn{
+  background-color: #6c757d;
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: 0.3s;
+    width: 100%;
+}
+.buttons button.more-btn:hover {
+  background-color: #5a6268;
+}
+
+
+
+
+.our_products {
+  text-align: center;
+}
